@@ -1,0 +1,1001 @@
+10th_score,12th_score,UG_score,Interests,Skills,Recommended_Career
+76.55,90.61,8.48,Design,"Creativity, Sketch",UX/UI Designer
+86.43,60.6,8.37,Software Development,"Problem Solving, C++, Java, OOP, Spring Boot",Software Developer
+62.05,64.69,9.17,AI/ML,"NLP, Keras, Deep Learning, Python, Scikit-learn",Machine Learning Engineer
+71.38,82.15,6.37,Cybersecurity,"Ethical Hacking, Linux, Wireshark, Firewalls, Cryptography",Cybersecurity Analyst
+65.92,85.62,7.04,Software Development,"Problem Solving, Spring Boot, OOP",Software Developer
+73.15,89.19,8.97,Software Development,"Git, C++, Problem Solving",Software Developer
+69.26,85.59,7.09,Data Science,"Pandas, NumPy",Data Scientist
+66.97,72.0,9.43,Cloud Computing,"AWS, Docker, DevOps, Kubernetes",Cloud Engineer
+89.79,74.5,9.32,Software Development,"Spring Boot, Git, C++, Problem Solving",Software Developer
+71.86,94.13,7.89,AI/ML,"Scikit-learn, Deep Learning, NLP",Machine Learning Engineer
+69.98,93.65,6.51,AI/ML,"NLP, Keras",Machine Learning Engineer
+87.34,82.54,9.44,Cybersecurity,"Wireshark, Firewalls",Cybersecurity Analyst
+69.06,68.03,8.27,AI/ML,"Scikit-learn, Deep Learning, Python, TensorFlow, NLP",Machine Learning Engineer
+61.84,79.94,8.79,Software Development,"Problem Solving, Git, C++",Software Developer
+90.24,60.12,8.95,Web Development,"Node.js, HTML, CSS, React",Web Developer
+72.4,86.31,9.03,AI/ML,"Scikit-learn, Python",Machine Learning Engineer
+64.8,89.67,7.95,Cloud Computing,"Kubernetes, Azure, Docker",Cloud Engineer
+76.59,82.36,7.31,Software Development,"Problem Solving, OOP, C++, Java",Software Developer
+80.83,91.79,6.97,Software Development,"OOP, C++",Software Developer
+77.49,80.5,8.28,Cloud Computing,"Azure, Kubernetes, DevOps",Cloud Engineer
+86.66,61.35,6.39,AI/ML,"Scikit-learn, Deep Learning, NLP, Keras, Python",Machine Learning Engineer
+74.71,60.39,8.52,Cybersecurity,"Linux, Network Security, Cryptography, Wireshark, Firewalls",Cybersecurity Analyst
+73.82,92.27,9.33,Cloud Computing,"Kubernetes, AWS, Terraform, DevOps, Docker",Cloud Engineer
+66.44,87.36,8.21,Cybersecurity,"Ethical Hacking, Linux, Firewalls, Cryptography, Wireshark",Cybersecurity Analyst
+71.2,76.94,7.93,AI/ML,"Python, NLP, TensorFlow, Keras",Machine Learning Engineer
+67.62,66.08,8.79,Design,"UI/UX, Sketch, Photoshop, Figma, Creativity",UX/UI Designer
+93.57,72.35,8.73,AI/ML,"NLP, Keras",Machine Learning Engineer
+60.81,77.93,9.03,Software Development,"Java, C++, Spring Boot",Software Developer
+88.44,92.13,8.92,Data Science,"Data Analysis, SQL, Python, Pandas, NumPy",Data Scientist
+63.17,91.61,6.7,Data Science,"Data Analysis, Machine Learning, Python",Data Scientist
+75.59,60.76,9.04,Cloud Computing,"Terraform, Docker, AWS, Azure",Cloud Engineer
+74.32,64.62,8.44,Design,"Photoshop, Creativity",UX/UI Designer
+82.53,65.18,9.49,Cloud Computing,"Docker, Azure, AWS, Terraform",Cloud Engineer
+90.49,73.07,7.1,Web Development,"JavaScript, HTML",Web Developer
+65.14,90.93,9.0,Web Development,"Node.js, JavaScript",Web Developer
+88.34,72.21,8.1,Software Development,"OOP, Spring Boot, Problem Solving",Software Developer
+67.32,67.97,8.53,Software Development,"Git, C++, Java, Problem Solving, Spring Boot",Software Developer
+74.02,75.45,7.55,Data Science,"SQL, Pandas, NumPy, Machine Learning, Data Analysis",Data Scientist
+68.19,65.25,8.78,Data Science,"Pandas, Data Analysis, Python, Machine Learning, SQL",Data Scientist
+61.48,94.62,8.55,Cybersecurity,"Ethical Hacking, Cryptography, Firewalls, Wireshark, Network Security",Cybersecurity Analyst
+60.58,73.08,7.0,Cybersecurity,"Network Security, Linux, Firewalls",Cybersecurity Analyst
+61.73,60.48,9.12,AI/ML,"TensorFlow, Deep Learning, NLP, Scikit-learn",Machine Learning Engineer
+69.14,94.99,9.45,Cybersecurity,"Linux, Ethical Hacking, Firewalls, Wireshark, Cryptography",Cybersecurity Analyst
+91.81,70.99,8.7,Cybersecurity,"Network Security, Wireshark, Cryptography",Cybersecurity Analyst
+84.6,81.22,9.18,Cloud Computing,"AWS, Docker, Terraform, Kubernetes, Azure",Cloud Engineer
+90.83,63.99,7.93,Cloud Computing,"DevOps, Kubernetes",Cloud Engineer
+93.4,62.21,8.14,Software Development,"OOP, Java",Software Developer
+86.11,68.36,7.83,Design,"Adobe XD, UI/UX",UX/UI Designer
+73.79,64.31,8.59,Web Development,"Bootstrap, JavaScript, React",Web Developer
+80.18,87.86,7.89,Data Science,"NumPy, SQL, Python",Data Scientist
+68.83,93.79,7.06,Software Development,"Problem Solving, Git",Software Developer
+81.9,79.94,6.96,Cloud Computing,"DevOps, Azure, AWS, Docker, Kubernetes",Cloud Engineer
+66.89,94.56,9.36,Data Science,"Data Analysis, SQL, Pandas",Data Scientist
+89.04,79.51,9.11,Design,"Creativity, Photoshop",UX/UI Designer
+82.11,74.89,8.01,Cloud Computing,"Azure, DevOps, AWS, Docker",Cloud Engineer
+82.13,73.9,8.13,Design,"Adobe XD, Sketch",UX/UI Designer
+74.29,66.07,8.34,AI/ML,"Keras, Python, TensorFlow, Deep Learning",Machine Learning Engineer
+82.26,62.68,6.79,Design,"Adobe XD, Sketch, Figma, UI/UX, Creativity",UX/UI Designer
+72.61,64.58,7.76,Design,"Adobe XD, Figma",UX/UI Designer
+73.37,90.33,7.41,Cybersecurity,"Firewalls, Linux, Wireshark, Cryptography, Ethical Hacking",Cybersecurity Analyst
+86.07,75.9,8.33,Cloud Computing,"Kubernetes, Azure, Docker, AWS, Terraform",Cloud Engineer
+81.93,91.4,9.26,Data Science,"Data Analysis, Python",Data Scientist
+68.58,86.04,7.0,Software Development,"Spring Boot, Git, C++, Problem Solving, Java",Software Developer
+62.5,90.86,7.92,Cloud Computing,"Azure, Kubernetes, AWS, Docker, Terraform",Cloud Engineer
+73.25,69.01,6.4,Data Science,"Machine Learning, NumPy, SQL",Data Scientist
+66.51,90.76,9.33,Software Development,"Problem Solving, OOP, Java",Software Developer
+64.19,66.01,6.7,AI/ML,"NLP, TensorFlow, Python, Scikit-learn, Keras",Machine Learning Engineer
+72.19,70.24,8.36,Web Development,"Node.js, CSS",Web Developer
+93.03,94.41,7.76,Web Development,"Node.js, HTML, CSS, JavaScript",Web Developer
+93.86,82.38,7.17,Web Development,"Bootstrap, HTML, Node.js, React, CSS",Web Developer
+73.97,93.58,9.29,Data Science,"SQL, Machine Learning",Data Scientist
+94.92,69.11,8.66,AI/ML,"Python, Keras, Deep Learning, TensorFlow, NLP",Machine Learning Engineer
+80.63,76.98,9.35,Data Science,"Python, Data Analysis, NumPy, Pandas",Data Scientist
+66.85,75.27,7.38,AI/ML,"NLP, Keras",Machine Learning Engineer
+71.04,71.69,7.23,Data Science,"SQL, Data Analysis, Python",Data Scientist
+75.88,91.84,8.72,Software Development,"Spring Boot, Git, Java, C++, OOP",Software Developer
+94.2,65.75,8.41,Web Development,"React, HTML, CSS, Bootstrap, JavaScript",Web Developer
+67.09,74.22,8.05,Data Science,"SQL, Data Analysis, Machine Learning, Python",Data Scientist
+92.74,71.11,6.64,Data Science,"SQL, Data Analysis, Machine Learning, Pandas, Python",Data Scientist
+94.68,81.67,9.44,AI/ML,"Python, Scikit-learn",Machine Learning Engineer
+82.67,76.82,8.58,Design,"Sketch, UI/UX, Creativity",UX/UI Designer
+92.19,89.83,8.56,AI/ML,"Scikit-learn, Deep Learning, NLP, Keras",Machine Learning Engineer
+75.11,67.74,7.08,AI/ML,"Scikit-learn, NLP, TensorFlow",Machine Learning Engineer
+86.3,91.75,9.11,Software Development,"Git, Problem Solving, C++, OOP",Software Developer
+82.47,80.38,8.49,Cybersecurity,"Ethical Hacking, Wireshark, Network Security",Cybersecurity Analyst
+78.93,91.63,6.68,Cybersecurity,"Network Security, Cryptography, Firewalls, Linux",Cybersecurity Analyst
+67.19,62.97,7.37,Web Development,"Node.js, Bootstrap",Web Developer
+79.27,84.04,8.37,Cybersecurity,"Linux, Firewalls, Cryptography, Wireshark, Ethical Hacking",Cybersecurity Analyst
+89.48,87.56,7.49,Software Development,"Spring Boot, OOP",Software Developer
+76.4,66.05,6.79,Cybersecurity,"Firewalls, Wireshark",Cybersecurity Analyst
+65.19,72.23,7.13,Design,"Photoshop, UI/UX, Creativity",UX/UI Designer
+81.92,78.77,7.98,Cybersecurity,"Network Security, Wireshark",Cybersecurity Analyst
+66.01,78.27,9.19,AI/ML,"TensorFlow, Keras, NLP",Machine Learning Engineer
+82.34,88.4,7.72,Web Development,"Bootstrap, CSS, Node.js, JavaScript, HTML",Web Developer
+78.98,62.45,7.99,AI/ML,"Python, Scikit-learn",Machine Learning Engineer
+88.54,78.64,6.93,Software Development,"Spring Boot, Problem Solving, Java, OOP",Software Developer
+80.72,72.23,8.36,AI/ML,"Python, Deep Learning, Keras",Machine Learning Engineer
+88.49,66.19,7.75,Data Science,"SQL, Pandas",Data Scientist
+89.5,85.77,7.83,Data Science,"Pandas, Data Analysis, Machine Learning, NumPy",Data Scientist
+62.16,60.09,7.09,AI/ML,"TensorFlow, Keras, Scikit-learn, NLP",Machine Learning Engineer
+61.04,82.85,6.12,Data Science,"Machine Learning, SQL, Data Analysis",Data Scientist
+63.41,73.92,7.93,Design,"Adobe XD, UI/UX, Photoshop, Sketch, Figma",UX/UI Designer
+67.73,80.34,8.07,Cybersecurity,"Firewalls, Wireshark, Linux",Cybersecurity Analyst
+60.66,82.68,6.52,AI/ML,"Python, Scikit-learn, NLP, Deep Learning, TensorFlow",Machine Learning Engineer
+76.56,75.86,8.14,Software Development,"Spring Boot, Java, Git, C++",Software Developer
+88.63,73.09,6.75,Web Development,"JavaScript, React, CSS, Bootstrap, HTML",Web Developer
+62.43,92.07,8.79,Design,"UI/UX, Sketch, Figma, Adobe XD, Photoshop",UX/UI Designer
+65.03,83.71,7.63,Cloud Computing,"Terraform, DevOps, AWS, Azure",Cloud Engineer
+83.75,80.77,7.81,AI/ML,"Python, Keras",Machine Learning Engineer
+60.88,87.47,7.99,AI/ML,"NLP, Scikit-learn",Machine Learning Engineer
+74.1,85.64,6.78,Cybersecurity,"Ethical Hacking, Firewalls",Cybersecurity Analyst
+79.57,67.33,6.4,Data Science,"Pandas, SQL",Data Scientist
+87.69,64.42,6.27,AI/ML,"Keras, NLP, Scikit-learn",Machine Learning Engineer
+72.85,61.62,7.68,Software Development,"C++, Java, Problem Solving, Spring Boot, OOP",Software Developer
+81.97,94.44,8.41,Cybersecurity,"Cryptography, Wireshark, Linux",Cybersecurity Analyst
+67.96,73.59,9.13,Software Development,"Git, C++, Java",Software Developer
+84.81,76.06,7.26,Design,"Adobe XD, Photoshop",UX/UI Designer
+62.09,68.79,8.88,Design,"Photoshop, Creativity",UX/UI Designer
+70.37,80.85,7.59,Cloud Computing,"DevOps, Docker, Azure, Kubernetes, Terraform",Cloud Engineer
+61.2,60.23,6.97,Data Science,"NumPy, Data Analysis, Pandas",Data Scientist
+89.06,62.68,9.34,Design,"Creativity, Sketch, Photoshop",UX/UI Designer
+65.04,86.18,8.52,Web Development,"React, Node.js, HTML, CSS",Web Developer
+68.06,93.97,8.01,Software Development,"C++, OOP",Software Developer
+75.67,67.19,7.41,AI/ML,"Deep Learning, Keras, Python",Machine Learning Engineer
+94.86,77.09,6.9,Cybersecurity,"Linux, Firewalls, Network Security, Wireshark",Cybersecurity Analyst
+65.6,70.39,7.27,Web Development,"HTML, JavaScript, CSS",Web Developer
+70.2,76.92,6.46,Data Science,"Data Analysis, SQL, Pandas",Data Scientist
+82.9,92.83,6.53,Web Development,"CSS, Node.js, Bootstrap, HTML",Web Developer
+60.86,79.46,9.06,Software Development,"Git, C++, Problem Solving, OOP",Software Developer
+93.23,88.42,7.06,Cybersecurity,"Cryptography, Ethical Hacking, Firewalls",Cybersecurity Analyst
+66.61,74.74,7.86,Data Science,"SQL, Python",Data Scientist
+92.86,67.88,7.63,AI/ML,"NLP, TensorFlow, Python",Machine Learning Engineer
+62.51,74.34,8.19,Data Science,"Python, Data Analysis, Machine Learning, NumPy",Data Scientist
+68.91,73.46,7.91,Cloud Computing,"DevOps, AWS, Docker, Azure",Cloud Engineer
+76.7,86.55,6.73,AI/ML,"TensorFlow, Deep Learning, Scikit-learn, Keras, Python",Machine Learning Engineer
+69.07,69.58,7.43,Software Development,"OOP, Problem Solving, Java",Software Developer
+94.97,86.94,6.04,Cloud Computing,"Terraform, Kubernetes, Docker, DevOps, AWS",Cloud Engineer
+85.61,80.95,9.31,Software Development,"C++, Git",Software Developer
+64.78,78.65,7.79,Data Science,"NumPy, Pandas, Data Analysis, Machine Learning",Data Scientist
+62.6,72.87,8.93,Software Development,"Java, Problem Solving",Software Developer
+81.71,73.76,7.78,Software Development,"Java, Git, OOP, Spring Boot, Problem Solving",Software Developer
+75.08,60.23,7.12,AI/ML,"TensorFlow, NLP, Keras, Python",Machine Learning Engineer
+79.79,85.28,6.58,Cloud Computing,"Docker, Azure, AWS",Cloud Engineer
+71.38,80.95,9.35,Web Development,"Bootstrap, JavaScript",Web Developer
+72.42,82.36,8.25,Software Development,"Spring Boot, Git, OOP, C++, Java",Software Developer
+94.41,61.11,7.87,AI/ML,"Keras, Scikit-learn",Machine Learning Engineer
+64.11,90.09,6.56,Cloud Computing,"AWS, DevOps, Kubernetes, Terraform",Cloud Engineer
+76.05,71.28,8.27,Software Development,"Problem Solving, C++",Software Developer
+82.97,83.05,6.87,Data Science,"SQL, Data Analysis, NumPy",Data Scientist
+65.9,80.07,6.44,Software Development,"OOP, Spring Boot, Git",Software Developer
+66.99,77.71,6.27,Cybersecurity,"Wireshark, Ethical Hacking, Cryptography",Cybersecurity Analyst
+61.03,91.63,7.87,AI/ML,"Deep Learning, Scikit-learn, NLP, TensorFlow, Python",Machine Learning Engineer
+63.69,72.54,9.3,Web Development,"JavaScript, CSS",Web Developer
+93.31,75.56,7.29,Data Science,"NumPy, Machine Learning, Python",Data Scientist
+63.53,85.58,7.6,Data Science,"SQL, Data Analysis, Machine Learning, NumPy, Python",Data Scientist
+88.21,70.27,7.21,AI/ML,"NLP, Scikit-learn, Keras, TensorFlow, Python",Machine Learning Engineer
+90.16,73.96,7.13,Cloud Computing,"Kubernetes, AWS, Docker",Cloud Engineer
+64.8,92.07,7.66,Cybersecurity,"Firewalls, Ethical Hacking",Cybersecurity Analyst
+83.06,61.56,8.49,AI/ML,"TensorFlow, Scikit-learn, NLP, Python, Keras",Machine Learning Engineer
+85.84,85.14,8.78,Cybersecurity,"Wireshark, Firewalls",Cybersecurity Analyst
+66.88,80.17,6.09,Data Science,"Python, NumPy, Data Analysis",Data Scientist
+67.67,91.54,6.35,AI/ML,"Scikit-learn, Python, Deep Learning, NLP",Machine Learning Engineer
+75.3,66.09,7.08,Cloud Computing,"Docker, AWS, DevOps, Kubernetes, Terraform",Cloud Engineer
+69.41,70.11,7.37,AI/ML,"NLP, Python",Machine Learning Engineer
+74.67,90.54,7.91,Cloud Computing,"Docker, Azure, AWS, Kubernetes, Terraform",Cloud Engineer
+61.53,88.38,9.0,Software Development,"Problem Solving, Git",Software Developer
+83.98,64.39,6.66,Cloud Computing,"Docker, Terraform, AWS, Kubernetes, DevOps",Cloud Engineer
+64.74,64.11,7.64,Web Development,"React, Bootstrap",Web Developer
+82.14,82.71,8.97,Cybersecurity,"Cryptography, Ethical Hacking",Cybersecurity Analyst
+63.05,88.37,8.33,Cybersecurity,"Cryptography, Network Security",Cybersecurity Analyst
+75.53,76.55,7.17,Data Science,"Data Analysis, Pandas, Machine Learning, NumPy",Data Scientist
+76.74,67.22,6.68,Web Development,"JavaScript, React, HTML",Web Developer
+84.27,92.98,7.66,Cybersecurity,"Wireshark, Linux, Cryptography, Firewalls",Cybersecurity Analyst
+80.43,87.52,9.03,AI/ML,"Deep Learning, TensorFlow, NLP, Keras, Scikit-learn",Machine Learning Engineer
+92.42,83.83,8.35,Web Development,"CSS, Node.js, JavaScript, HTML",Web Developer
+78.36,92.11,7.43,AI/ML,"Scikit-learn, Deep Learning, TensorFlow",Machine Learning Engineer
+62.4,60.46,6.24,Cybersecurity,"Cryptography, Linux, Firewalls",Cybersecurity Analyst
+92.1,87.45,9.24,Web Development,"Bootstrap, HTML, React",Web Developer
+62.28,73.99,9.11,Cybersecurity,"Linux, Wireshark, Network Security, Cryptography",Cybersecurity Analyst
+72.19,68.87,6.62,Cybersecurity,"Wireshark, Firewalls",Cybersecurity Analyst
+65.36,78.53,8.04,AI/ML,"Scikit-learn, NLP, Deep Learning, Python, Keras",Machine Learning Engineer
+91.7,84.1,9.05,Cybersecurity,"Wireshark, Ethical Hacking",Cybersecurity Analyst
+80.52,81.29,8.07,Web Development,"HTML, JavaScript, Bootstrap, Node.js, CSS",Web Developer
+78.09,88.19,6.74,Cybersecurity,"Firewalls, Cryptography, Wireshark",Cybersecurity Analyst
+67.34,70.34,8.8,Cybersecurity,"Cryptography, Ethical Hacking",Cybersecurity Analyst
+76.14,92.27,6.39,Software Development,"Problem Solving, OOP, C++",Software Developer
+90.49,76.4,8.94,Data Science,"Machine Learning, SQL, Python, Data Analysis",Data Scientist
+82.65,93.63,8.22,Cloud Computing,"Docker, AWS, Azure, Terraform",Cloud Engineer
+89.36,70.71,6.21,Data Science,"Data Analysis, Python, Machine Learning",Data Scientist
+71.83,65.72,7.86,AI/ML,"Python, Deep Learning",Machine Learning Engineer
+65.98,83.1,6.83,Cloud Computing,"Docker, Azure, DevOps, AWS, Kubernetes",Cloud Engineer
+65.63,62.31,6.12,Design,"Sketch, UI/UX, Adobe XD, Creativity",UX/UI Designer
+61.12,85.2,6.59,Data Science,"Data Analysis, NumPy",Data Scientist
+67.66,81.47,9.27,Cybersecurity,"Wireshark, Linux, Firewalls, Ethical Hacking",Cybersecurity Analyst
+68.35,85.06,8.75,Cybersecurity,"Cryptography, Linux, Wireshark, Firewalls, Ethical Hacking",Cybersecurity Analyst
+90.7,88.87,6.77,Software Development,"Git, Spring Boot, C++, Java",Software Developer
+94.59,93.71,8.35,Design,"UI/UX, Creativity",UX/UI Designer
+85.56,77.04,8.71,Software Development,"OOP, Spring Boot, Git, Problem Solving",Software Developer
+91.74,79.73,8.62,Cybersecurity,"Ethical Hacking, Linux, Firewalls, Wireshark",Cybersecurity Analyst
+90.66,83.43,8.88,Cloud Computing,"Kubernetes, Terraform, Azure, AWS",Cloud Engineer
+75.83,83.77,8.29,AI/ML,"Scikit-learn, Deep Learning, TensorFlow, Python, Keras",Machine Learning Engineer
+63.35,68.89,7.33,Design,"Adobe XD, Sketch, Photoshop, UI/UX",UX/UI Designer
+67.29,62.7,6.86,Cybersecurity,"Wireshark, Network Security, Cryptography, Linux",Cybersecurity Analyst
+90.44,83.66,8.3,Cybersecurity,"Network Security, Wireshark, Ethical Hacking, Linux, Firewalls",Cybersecurity Analyst
+78.72,61.13,9.25,Design,"Figma, Sketch, Adobe XD",UX/UI Designer
+86.58,87.11,6.77,Software Development,"Java, Problem Solving, OOP, Spring Boot, C++",Software Developer
+94.52,88.03,7.78,Design,"UI/UX, Creativity, Adobe XD, Figma, Sketch",UX/UI Designer
+70.71,79.79,7.96,Data Science,"Machine Learning, Pandas, Data Analysis, SQL, Python",Data Scientist
+82.84,85.73,7.97,Cloud Computing,"Azure, Kubernetes, Terraform",Cloud Engineer
+82.39,80.15,8.25,AI/ML,"Deep Learning, NLP",Machine Learning Engineer
+70.29,60.78,8.41,Software Development,"Java, Spring Boot, C++",Software Developer
+90.96,61.32,8.55,Web Development,"CSS, React, Bootstrap, HTML, JavaScript",Web Developer
+60.94,90.47,8.75,Cloud Computing,"Azure, Docker, DevOps",Cloud Engineer
+81.31,67.57,7.39,Cybersecurity,"Ethical Hacking, Wireshark",Cybersecurity Analyst
+90.39,70.13,7.35,Software Development,"Git, C++",Software Developer
+74.46,87.24,6.25,AI/ML,"TensorFlow, NLP, Scikit-learn, Python, Deep Learning",Machine Learning Engineer
+86.33,76.76,8.14,Cybersecurity,"Wireshark, Firewalls, Linux, Ethical Hacking",Cybersecurity Analyst
+68.54,87.92,7.07,Data Science,"Pandas, NumPy",Data Scientist
+60.11,74.82,8.09,Software Development,"C++, Git, Java",Software Developer
+72.08,65.97,9.01,AI/ML,"TensorFlow, Scikit-learn",Machine Learning Engineer
+65.16,78.71,9.3,Design,"Adobe XD, UI/UX, Figma",UX/UI Designer
+65.31,88.52,6.18,Cloud Computing,"DevOps, Terraform, Azure, Docker",Cloud Engineer
+62.48,67.43,7.25,Software Development,"Spring Boot, Problem Solving, C++, Git, OOP",Software Developer
+75.9,64.46,6.96,Web Development,"Node.js, JavaScript",Web Developer
+86.79,60.26,6.16,AI/ML,"Python, Keras, NLP, TensorFlow, Scikit-learn",Machine Learning Engineer
+72.35,75.12,6.89,Design,"UI/UX, Photoshop, Figma",UX/UI Designer
+80.03,94.42,7.41,Cloud Computing,"AWS, Terraform, DevOps, Kubernetes",Cloud Engineer
+68.57,87.2,8.91,Web Development,"HTML, Bootstrap, React, Node.js, CSS",Web Developer
+63.78,66.1,7.39,Software Development,"Problem Solving, Git, Spring Boot",Software Developer
+79.54,80.06,6.1,AI/ML,"Scikit-learn, TensorFlow, NLP, Keras, Deep Learning",Machine Learning Engineer
+73.93,78.14,7.19,Cybersecurity,"Network Security, Linux, Firewalls",Cybersecurity Analyst
+81.01,73.45,7.49,Cybersecurity,"Network Security, Wireshark",Cybersecurity Analyst
+73.23,90.65,8.85,Design,"UI/UX, Figma",UX/UI Designer
+77.56,86.57,6.42,Cybersecurity,"Network Security, Wireshark, Cryptography, Firewalls",Cybersecurity Analyst
+85.26,85.44,8.49,Data Science,"Machine Learning, Data Analysis, Python, NumPy, SQL",Data Scientist
+73.56,93.64,7.59,Cybersecurity,"Wireshark, Network Security, Cryptography, Linux, Ethical Hacking",Cybersecurity Analyst
+62.09,92.98,6.93,Software Development,"Problem Solving, Git, OOP",Software Developer
+70.67,71.22,8.28,Design,"Sketch, Figma, Creativity, Photoshop",UX/UI Designer
+68.68,83.91,7.71,Web Development,"JavaScript, Node.js, React, Bootstrap, CSS",Web Developer
+68.43,78.18,8.13,Data Science,"Data Analysis, Pandas, Machine Learning",Data Scientist
+89.32,79.01,6.42,Cybersecurity,"Wireshark, Linux, Network Security",Cybersecurity Analyst
+72.29,63.59,6.92,Web Development,"React, JavaScript, CSS, HTML",Web Developer
+75.74,66.89,6.12,Data Science,"Pandas, Machine Learning, Python",Data Scientist
+66.2,78.3,6.88,Cloud Computing,"Docker, Terraform, AWS",Cloud Engineer
+81.92,64.73,7.8,Software Development,"C++, OOP, Spring Boot, Java",Software Developer
+65.28,62.01,7.86,AI/ML,"Python, Keras",Machine Learning Engineer
+75.9,83.24,6.37,Web Development,"JavaScript, CSS, Node.js",Web Developer
+82.62,61.54,9.19,AI/ML,"Scikit-learn, TensorFlow",Machine Learning Engineer
+76.82,73.05,8.4,Cloud Computing,"Terraform, Kubernetes, Azure, Docker",Cloud Engineer
+65.54,85.68,9.15,Web Development,"Bootstrap, HTML, JavaScript, React, CSS",Web Developer
+72.72,91.53,8.7,Web Development,"CSS, Bootstrap, HTML",Web Developer
+79.38,66.26,9.23,Cloud Computing,"Docker, DevOps, Kubernetes, Azure",Cloud Engineer
+90.61,81.23,7.54,Data Science,"Machine Learning, Data Analysis, NumPy, SQL, Pandas",Data Scientist
+64.04,69.93,8.35,Web Development,"React, Node.js, JavaScript, Bootstrap, HTML",Web Developer
+70.74,72.16,6.84,Software Development,"Problem Solving, C++, Spring Boot",Software Developer
+79.89,89.87,7.03,AI/ML,"Keras, Deep Learning, TensorFlow, Python",Machine Learning Engineer
+76.71,82.64,6.99,Web Development,"HTML, Bootstrap",Web Developer
+68.12,81.7,7.87,Cybersecurity,"Ethical Hacking, Network Security, Cryptography",Cybersecurity Analyst
+78.73,86.23,6.46,AI/ML,"TensorFlow, Keras",Machine Learning Engineer
+65.94,69.08,6.16,Web Development,"JavaScript, CSS, Bootstrap, Node.js, React",Web Developer
+86.92,83.66,9.47,Software Development,"Git, Java",Software Developer
+81.91,66.33,8.04,Data Science,"Pandas, SQL, Python, Machine Learning, NumPy",Data Scientist
+89.19,91.67,7.86,Design,"Figma, Photoshop, UI/UX, Creativity",UX/UI Designer
+75.04,82.01,6.01,Data Science,"Pandas, Machine Learning, Data Analysis",Data Scientist
+86.31,87.42,8.16,AI/ML,"TensorFlow, Scikit-learn, NLP, Keras, Deep Learning",Machine Learning Engineer
+90.09,88.69,7.12,Cybersecurity,"Firewalls, Wireshark, Ethical Hacking, Linux, Cryptography",Cybersecurity Analyst
+68.38,90.93,9.21,Cybersecurity,"Linux, Cryptography",Cybersecurity Analyst
+75.67,83.92,6.7,Web Development,"Node.js, Bootstrap",Web Developer
+64.85,70.75,7.48,Web Development,"Node.js, Bootstrap, CSS, React",Web Developer
+81.47,94.42,8.88,Cybersecurity,"Firewalls, Wireshark, Network Security, Ethical Hacking, Linux",Cybersecurity Analyst
+83.79,66.79,8.37,AI/ML,"Deep Learning, TensorFlow, Python, Scikit-learn, NLP",Machine Learning Engineer
+75.53,77.98,7.35,Cloud Computing,"Docker, Kubernetes",Cloud Engineer
+91.8,81.71,8.46,Software Development,"OOP, C++, Git, Spring Boot",Software Developer
+84.87,83.04,9.32,Web Development,"React, Node.js",Web Developer
+94.64,90.06,8.62,Cybersecurity,"Wireshark, Ethical Hacking, Linux, Cryptography",Cybersecurity Analyst
+86.77,77.1,8.04,Software Development,"Spring Boot, C++",Software Developer
+88.74,67.32,6.49,Cloud Computing,"Terraform, DevOps",Cloud Engineer
+89.49,74.48,6.02,Software Development,"C++, Problem Solving, Git",Software Developer
+77.59,91.36,8.08,Data Science,"NumPy, Data Analysis, Python, Machine Learning",Data Scientist
+90.26,66.64,7.49,Web Development,"React, Node.js, JavaScript",Web Developer
+82.82,82.92,9.28,Data Science,"SQL, NumPy, Python, Data Analysis, Machine Learning",Data Scientist
+77.32,77.78,6.53,AI/ML,"Python, Scikit-learn, Deep Learning",Machine Learning Engineer
+83.6,85.39,7.7,Cloud Computing,"Azure, Terraform, AWS, Docker, DevOps",Cloud Engineer
+83.81,92.81,7.69,Software Development,"OOP, Java, Spring Boot",Software Developer
+69.08,88.89,9.39,Cybersecurity,"Linux, Network Security",Cybersecurity Analyst
+66.89,67.43,6.19,Cybersecurity,"Wireshark, Firewalls, Ethical Hacking, Cryptography",Cybersecurity Analyst
+60.8,86.02,6.33,AI/ML,"Keras, NLP, Deep Learning, TensorFlow, Python",Machine Learning Engineer
+79.12,92.75,8.62,Design,"Figma, Photoshop, UI/UX, Adobe XD, Sketch",UX/UI Designer
+66.23,68.62,6.99,Design,"UI/UX, Photoshop, Creativity",UX/UI Designer
+61.49,89.59,6.03,AI/ML,"NLP, TensorFlow, Keras, Python, Scikit-learn",Machine Learning Engineer
+63.54,91.41,8.32,Design,"Creativity, Adobe XD, Sketch",UX/UI Designer
+85.28,90.94,6.62,Data Science,"NumPy, Machine Learning, Python, Data Analysis, Pandas",Data Scientist
+87.97,85.04,7.02,Web Development,"HTML, React, JavaScript",Web Developer
+66.34,89.93,6.33,Data Science,"SQL, Data Analysis, Machine Learning",Data Scientist
+66.74,73.37,6.11,Data Science,"NumPy, Python",Data Scientist
+62.52,71.06,8.51,Design,"Creativity, Figma, UI/UX, Adobe XD",UX/UI Designer
+92.55,66.24,7.51,AI/ML,"Scikit-learn, Keras, TensorFlow, Python, NLP",Machine Learning Engineer
+74.16,85.26,7.63,Cloud Computing,"Kubernetes, DevOps, AWS",Cloud Engineer
+90.78,73.52,7.68,Cloud Computing,"Azure, Docker",Cloud Engineer
+74.08,87.53,7.27,Data Science,"Pandas, SQL, Data Analysis, Machine Learning, NumPy",Data Scientist
+66.62,79.08,7.91,Data Science,"Data Analysis, NumPy, Python, Machine Learning, Pandas",Data Scientist
+89.55,94.93,6.2,AI/ML,"Python, NLP, TensorFlow, Scikit-learn",Machine Learning Engineer
+66.2,88.22,6.31,AI/ML,"Keras, Python, TensorFlow",Machine Learning Engineer
+87.34,69.01,7.96,Cybersecurity,"Cryptography, Network Security, Wireshark, Firewalls, Ethical Hacking",Cybersecurity Analyst
+88.25,73.19,7.75,Design,"UI/UX, Figma, Creativity",UX/UI Designer
+66.73,86.51,9.38,Web Development,"React, CSS, Node.js",Web Developer
+68.58,81.81,7.6,Software Development,"Git, C++, Spring Boot",Software Developer
+64.72,90.97,7.55,Cybersecurity,"Network Security, Firewalls, Wireshark, Linux, Cryptography",Cybersecurity Analyst
+66.71,94.39,6.18,Cybersecurity,"Network Security, Wireshark, Firewalls, Cryptography",Cybersecurity Analyst
+84.03,83.59,7.49,Design,"Figma, UI/UX, Sketch, Photoshop",UX/UI Designer
+70.47,90.22,8.97,Design,"Photoshop, Adobe XD",UX/UI Designer
+92.51,83.76,8.85,Cloud Computing,"AWS, Kubernetes",Cloud Engineer
+77.7,64.53,8.89,Software Development,"C++, Spring Boot, OOP",Software Developer
+70.27,66.53,6.91,AI/ML,"Scikit-learn, Python, NLP",Machine Learning Engineer
+66.34,92.63,6.18,Web Development,"CSS, React, JavaScript",Web Developer
+61.34,65.77,6.84,AI/ML,"TensorFlow, Deep Learning, Scikit-learn",Machine Learning Engineer
+90.67,93.32,7.91,Cybersecurity,"Linux, Ethical Hacking, Network Security",Cybersecurity Analyst
+87.79,68.2,7.01,Design,"Photoshop, Figma, UI/UX, Adobe XD, Creativity",UX/UI Designer
+70.53,83.97,9.28,Design,"UI/UX, Figma",UX/UI Designer
+73.51,90.22,8.72,Web Development,"Bootstrap, CSS",Web Developer
+68.67,86.06,8.11,Cybersecurity,"Linux, Network Security",Cybersecurity Analyst
+60.35,78.26,7.57,Web Development,"Bootstrap, CSS, JavaScript, HTML",Web Developer
+92.8,75.34,7.72,Cybersecurity,"Network Security, Cryptography",Cybersecurity Analyst
+78.27,85.46,6.86,Design,"UI/UX, Photoshop",UX/UI Designer
+64.67,68.95,8.52,Cybersecurity,"Linux, Network Security, Cryptography",Cybersecurity Analyst
+61.47,61.93,8.51,Data Science,"Python, Machine Learning, SQL, Pandas",Data Scientist
+80.13,77.73,6.38,AI/ML,"Python, NLP, TensorFlow",Machine Learning Engineer
+92.68,77.1,6.55,Data Science,"Pandas, SQL",Data Scientist
+87.52,74.96,6.75,Web Development,"JavaScript, Node.js, Bootstrap, HTML, CSS",Web Developer
+84.33,76.91,9.22,AI/ML,"Deep Learning, Python",Machine Learning Engineer
+69.93,62.95,7.4,Design,"Figma, UI/UX, Creativity",UX/UI Designer
+60.36,80.44,6.97,AI/ML,"Scikit-learn, NLP, TensorFlow, Python",Machine Learning Engineer
+83.08,75.41,8.39,Software Development,"OOP, C++",Software Developer
+66.99,68.64,6.95,AI/ML,"TensorFlow, NLP",Machine Learning Engineer
+84.03,81.96,6.8,Web Development,"Bootstrap, JavaScript, HTML, React",Web Developer
+82.59,68.02,7.19,Cloud Computing,"Terraform, Docker, Kubernetes, DevOps, AWS",Cloud Engineer
+65.49,75.67,6.81,Web Development,"Node.js, HTML, React, JavaScript",Web Developer
+80.92,68.75,6.92,Web Development,"HTML, Node.js, CSS",Web Developer
+91.86,66.81,7.96,Cloud Computing,"Docker, Terraform, AWS, Azure, Kubernetes",Cloud Engineer
+74.44,71.23,7.18,Cloud Computing,"Azure, AWS, DevOps",Cloud Engineer
+81.15,64.45,6.68,Data Science,"Machine Learning, SQL, Pandas, NumPy",Data Scientist
+62.85,92.71,6.54,Web Development,"React, HTML",Web Developer
+85.01,80.4,7.55,Cybersecurity,"Ethical Hacking, Firewalls",Cybersecurity Analyst
+76.88,86.8,6.01,Design,"Adobe XD, Figma, Creativity",UX/UI Designer
+73.68,60.63,8.51,Cybersecurity,"Ethical Hacking, Wireshark, Firewalls, Network Security, Cryptography",Cybersecurity Analyst
+86.79,65.51,7.87,Cloud Computing,"Kubernetes, AWS, Terraform",Cloud Engineer
+64.42,65.22,8.74,Design,"UI/UX, Creativity",UX/UI Designer
+74.85,79.86,8.94,AI/ML,"Python, Scikit-learn",Machine Learning Engineer
+89.55,68.54,9.41,Cloud Computing,"Azure, Kubernetes",Cloud Engineer
+80.93,85.36,8.87,Web Development,"HTML, Bootstrap, CSS, React",Web Developer
+65.74,76.44,6.62,Design,"UI/UX, Creativity, Figma, Sketch",UX/UI Designer
+89.53,69.8,9.48,Data Science,"Python, NumPy, SQL, Machine Learning",Data Scientist
+92.91,64.16,6.78,Design,"Photoshop, Figma, UI/UX, Sketch",UX/UI Designer
+61.29,89.33,8.22,Software Development,"Git, Problem Solving",Software Developer
+64.11,91.34,7.78,Cybersecurity,"Wireshark, Ethical Hacking, Linux, Network Security, Firewalls",Cybersecurity Analyst
+84.44,66.72,9.39,Design,"Sketch, Creativity",UX/UI Designer
+74.25,75.99,7.21,Cybersecurity,"Ethical Hacking, Wireshark, Network Security, Linux",Cybersecurity Analyst
+85.22,67.29,7.11,AI/ML,"Deep Learning, TensorFlow, Python, NLP",Machine Learning Engineer
+74.23,89.96,6.35,AI/ML,"Python, Scikit-learn, TensorFlow, Deep Learning, NLP",Machine Learning Engineer
+79.87,64.3,7.96,AI/ML,"Keras, Scikit-learn",Machine Learning Engineer
+66.51,72.71,7.91,Cybersecurity,"Firewalls, Linux, Network Security, Cryptography",Cybersecurity Analyst
+86.58,87.44,7.69,AI/ML,"Keras, Scikit-learn, NLP",Machine Learning Engineer
+90.71,74.75,6.39,Web Development,"Bootstrap, React, CSS, JavaScript, HTML",Web Developer
+94.67,72.07,6.77,Cloud Computing,"Kubernetes, Terraform, Azure, AWS",Cloud Engineer
+78.11,84.27,8.13,Web Development,"JavaScript, HTML",Web Developer
+62.33,77.12,6.8,AI/ML,"NLP, Python, Keras, Scikit-learn, TensorFlow",Machine Learning Engineer
+73.93,80.23,7.36,Cybersecurity,"Ethical Hacking, Linux, Firewalls, Network Security",Cybersecurity Analyst
+81.27,92.87,8.96,Design,"Photoshop, UI/UX, Figma, Creativity, Adobe XD",UX/UI Designer
+66.24,79.83,6.16,Design,"Creativity, Figma, Photoshop",UX/UI Designer
+92.63,80.37,7.02,Cybersecurity,"Wireshark, Network Security, Cryptography, Firewalls, Ethical Hacking",Cybersecurity Analyst
+70.81,86.01,7.45,Cybersecurity,"Firewalls, Network Security",Cybersecurity Analyst
+74.85,88.83,8.19,Design,"Figma, Adobe XD, Sketch, UI/UX",UX/UI Designer
+63.04,70.33,7.93,Cybersecurity,"Linux, Wireshark",Cybersecurity Analyst
+90.31,75.41,7.24,AI/ML,"Python, Deep Learning, Scikit-learn, NLP",Machine Learning Engineer
+94.85,92.34,6.83,Web Development,"Node.js, CSS, HTML, Bootstrap",Web Developer
+72.46,72.21,6.72,Cloud Computing,"AWS, Kubernetes, Azure, DevOps, Terraform",Cloud Engineer
+84.0,61.83,6.74,Software Development,"OOP, Java, Git, C++",Software Developer
+76.88,69.82,7.02,Data Science,"Data Analysis, SQL, Machine Learning",Data Scientist
+90.47,60.72,6.03,Web Development,"HTML, CSS",Web Developer
+85.44,91.68,6.36,Cybersecurity,"Firewalls, Wireshark",Cybersecurity Analyst
+73.26,87.87,8.6,Software Development,"Java, OOP, Spring Boot",Software Developer
+94.52,87.24,9.15,Cybersecurity,"Linux, Ethical Hacking, Network Security, Firewalls, Cryptography",Cybersecurity Analyst
+88.21,75.22,6.5,Web Development,"React, Node.js",Web Developer
+92.36,62.7,6.39,Web Development,"JavaScript, Node.js, CSS, HTML, Bootstrap",Web Developer
+78.38,93.32,7.06,Cloud Computing,"DevOps, Terraform, Kubernetes, Docker, AWS",Cloud Engineer
+70.19,91.61,8.36,Software Development,"Problem Solving, OOP, Spring Boot, Git, Java",Software Developer
+84.1,63.11,6.57,Web Development,"Bootstrap, Node.js",Web Developer
+77.66,84.14,8.12,Cloud Computing,"Kubernetes, AWS",Cloud Engineer
+91.13,69.66,6.17,Web Development,"Node.js, Bootstrap, React, HTML, CSS",Web Developer
+60.36,70.58,9.2,Data Science,"Machine Learning, Python, Data Analysis, SQL, Pandas",Data Scientist
+71.73,84.86,8.35,AI/ML,"NLP, Scikit-learn, Python",Machine Learning Engineer
+77.0,82.92,7.99,Software Development,"Git, Java",Software Developer
+70.35,63.43,8.88,Data Science,"Pandas, Data Analysis, Python, SQL, Machine Learning",Data Scientist
+84.58,70.46,7.43,Cybersecurity,"Firewalls, Network Security, Ethical Hacking",Cybersecurity Analyst
+67.25,83.18,8.72,Software Development,"C++, OOP",Software Developer
+93.54,77.59,6.36,Data Science,"Pandas, Machine Learning, Data Analysis",Data Scientist
+68.19,91.98,6.42,Design,"UI/UX, Sketch",UX/UI Designer
+85.16,71.09,7.07,Cloud Computing,"AWS, Terraform",Cloud Engineer
+77.44,82.57,8.88,AI/ML,"Scikit-learn, Keras, TensorFlow",Machine Learning Engineer
+86.73,68.82,8.91,Software Development,"OOP, Java",Software Developer
+88.75,78.36,6.22,Cybersecurity,"Network Security, Ethical Hacking",Cybersecurity Analyst
+73.46,87.1,9.31,Web Development,"Node.js, Bootstrap",Web Developer
+68.0,93.1,7.9,Data Science,"Python, NumPy, Data Analysis",Data Scientist
+61.42,64.68,6.99,Cloud Computing,"DevOps, AWS, Docker, Kubernetes",Cloud Engineer
+94.99,82.86,8.59,AI/ML,"NLP, Keras",Machine Learning Engineer
+67.88,94.65,8.93,Design,"Creativity, UI/UX",UX/UI Designer
+83.22,79.46,7.85,Data Science,"Data Analysis, NumPy, Pandas",Data Scientist
+83.29,75.45,7.73,Web Development,"JavaScript, React, HTML, CSS",Web Developer
+74.71,88.5,8.39,Web Development,"CSS, Node.js",Web Developer
+88.78,86.36,7.2,Web Development,"React, CSS, JavaScript",Web Developer
+61.19,79.93,8.38,Cybersecurity,"Ethical Hacking, Network Security",Cybersecurity Analyst
+68.26,91.36,6.42,Cloud Computing,"AWS, Azure, DevOps, Terraform, Kubernetes",Cloud Engineer
+74.57,71.57,9.3,Design,"Creativity, Photoshop, UI/UX, Adobe XD",UX/UI Designer
+90.86,62.17,7.21,Design,"Sketch, Figma, Adobe XD",UX/UI Designer
+74.29,91.74,7.06,Design,"Creativity, Figma, Photoshop",UX/UI Designer
+65.76,68.39,7.25,Design,"UI/UX, Photoshop, Sketch",UX/UI Designer
+80.87,70.59,6.71,AI/ML,"Deep Learning, TensorFlow, NLP, Scikit-learn",Machine Learning Engineer
+66.0,85.05,6.2,Design,"Sketch, Figma, Photoshop, Adobe XD",UX/UI Designer
+65.97,82.8,8.97,Design,"UI/UX, Figma, Photoshop",UX/UI Designer
+61.18,76.94,7.94,Software Development,"Spring Boot, OOP, Git",Software Developer
+78.33,81.41,6.49,AI/ML,"Deep Learning, Scikit-learn, Python, Keras, NLP",Machine Learning Engineer
+90.65,60.22,9.4,Data Science,"Pandas, Machine Learning, Data Analysis",Data Scientist
+64.01,69.33,9.27,AI/ML,"NLP, TensorFlow, Python, Deep Learning",Machine Learning Engineer
+64.46,84.45,6.46,Cybersecurity,"Firewalls, Ethical Hacking",Cybersecurity Analyst
+71.93,79.32,8.86,Cybersecurity,"Firewalls, Network Security, Linux, Wireshark, Ethical Hacking",Cybersecurity Analyst
+83.81,89.1,6.4,Cloud Computing,"AWS, Kubernetes, DevOps",Cloud Engineer
+62.3,80.69,8.03,Design,"Figma, Adobe XD, Sketch",UX/UI Designer
+83.65,83.81,6.47,AI/ML,"Python, TensorFlow, NLP, Keras, Deep Learning",Machine Learning Engineer
+67.25,62.52,7.32,AI/ML,"Keras, TensorFlow, NLP, Deep Learning, Scikit-learn",Machine Learning Engineer
+82.12,81.04,8.53,Design,"UI/UX, Creativity",UX/UI Designer
+86.95,61.36,9.47,Web Development,"CSS, HTML, Node.js, Bootstrap",Web Developer
+72.18,70.71,7.56,Cybersecurity,"Wireshark, Linux, Network Security, Ethical Hacking",Cybersecurity Analyst
+61.61,76.02,9.14,Data Science,"SQL, Python, Machine Learning, Data Analysis, NumPy",Data Scientist
+61.31,70.83,7.5,Cloud Computing,"AWS, Docker, Kubernetes, Azure",Cloud Engineer
+73.94,70.03,6.32,Cybersecurity,"Wireshark, Linux",Cybersecurity Analyst
+81.85,60.57,8.87,Design,"Adobe XD, Photoshop",UX/UI Designer
+93.14,72.7,7.87,Cloud Computing,"Terraform, DevOps, Kubernetes, Docker",Cloud Engineer
+60.31,82.99,9.4,AI/ML,"Python, Scikit-learn, Keras, Deep Learning",Machine Learning Engineer
+91.28,86.37,9.26,Cloud Computing,"Docker, Azure, DevOps, AWS, Terraform",Cloud Engineer
+90.84,92.61,6.1,AI/ML,"NLP, Deep Learning, TensorFlow, Python",Machine Learning Engineer
+83.27,88.85,7.02,Data Science,"Pandas, Python, Machine Learning, SQL",Data Scientist
+63.92,74.31,8.77,Data Science,"Data Analysis, Machine Learning, SQL, NumPy",Data Scientist
+69.13,68.0,6.72,Design,"UI/UX, Creativity, Figma",UX/UI Designer
+80.57,82.52,6.43,Design,"Photoshop, Sketch, Figma, Creativity, Adobe XD",UX/UI Designer
+82.0,71.76,7.41,Software Development,"C++, Spring Boot, Problem Solving, Git, OOP",Software Developer
+67.12,80.86,6.11,Design,"Adobe XD, Creativity, UI/UX, Figma",UX/UI Designer
+73.73,88.42,8.17,Data Science,"Pandas, Data Analysis, Machine Learning, NumPy, Python",Data Scientist
+61.68,89.98,9.06,Cloud Computing,"DevOps, Azure, Terraform, AWS",Cloud Engineer
+78.92,88.1,8.23,Cloud Computing,"Kubernetes, DevOps, Azure",Cloud Engineer
+75.95,64.18,6.02,Design,"Creativity, Sketch, Photoshop, UI/UX",UX/UI Designer
+71.77,64.01,6.14,AI/ML,"Keras, TensorFlow",Machine Learning Engineer
+87.0,90.92,8.89,Software Development,"Problem Solving, Java, Spring Boot, C++",Software Developer
+67.36,76.36,6.57,Design,"Photoshop, Adobe XD",UX/UI Designer
+93.62,74.46,7.6,AI/ML,"Keras, Scikit-learn, Deep Learning",Machine Learning Engineer
+65.86,85.22,7.69,Cloud Computing,"Kubernetes, Terraform, Docker",Cloud Engineer
+75.92,61.88,8.99,Web Development,"HTML, JavaScript, Node.js, Bootstrap, CSS",Web Developer
+75.36,72.24,6.23,Cybersecurity,"Ethical Hacking, Linux, Firewalls",Cybersecurity Analyst
+81.44,82.89,8.58,Cybersecurity,"Cryptography, Ethical Hacking",Cybersecurity Analyst
+82.99,76.04,6.91,Design,"Sketch, Creativity, Figma, UI/UX",UX/UI Designer
+92.02,64.06,8.32,AI/ML,"NLP, Python, Deep Learning, Scikit-learn, Keras",Machine Learning Engineer
+93.29,69.25,7.74,Design,"Sketch, Figma, Creativity, UI/UX",UX/UI Designer
+92.68,77.88,7.44,Data Science,"Python, NumPy, Machine Learning",Data Scientist
+90.57,94.1,8.94,Design,"Adobe XD, Figma",UX/UI Designer
+64.06,85.83,6.5,Web Development,"Node.js, JavaScript, CSS, HTML, Bootstrap",Web Developer
+64.08,81.77,7.18,Cloud Computing,"Terraform, Kubernetes, Azure",Cloud Engineer
+82.3,64.27,7.14,Data Science,"Pandas, SQL",Data Scientist
+61.5,75.25,6.05,Data Science,"Data Analysis, Machine Learning, NumPy, SQL",Data Scientist
+86.85,74.76,6.81,Cloud Computing,"Docker, Terraform, AWS, Kubernetes, Azure",Cloud Engineer
+62.65,88.38,6.55,Cloud Computing,"DevOps, AWS, Terraform, Azure",Cloud Engineer
+76.73,62.53,7.05,Cloud Computing,"DevOps, Docker",Cloud Engineer
+82.91,90.99,6.7,Web Development,"JavaScript, Node.js, HTML",Web Developer
+87.47,69.48,7.41,AI/ML,"Python, Keras",Machine Learning Engineer
+77.81,83.3,6.35,Cloud Computing,"DevOps, AWS",Cloud Engineer
+80.0,71.65,6.48,AI/ML,"NLP, Python, Deep Learning, Scikit-learn, TensorFlow",Machine Learning Engineer
+83.79,79.9,8.99,Data Science,"Pandas, Machine Learning",Data Scientist
+73.55,91.36,7.05,Web Development,"HTML, Node.js, Bootstrap, React",Web Developer
+68.44,67.26,9.33,AI/ML,"NLP, Scikit-learn, Keras",Machine Learning Engineer
+80.24,73.06,7.73,Web Development,"HTML, CSS, Bootstrap",Web Developer
+85.5,73.95,7.66,Web Development,"HTML, JavaScript, Node.js, CSS, React",Web Developer
+86.31,61.44,9.12,Data Science,"SQL, Pandas, Machine Learning, Python",Data Scientist
+80.85,64.76,7.66,Design,"Figma, Photoshop, Creativity",UX/UI Designer
+93.07,66.21,6.92,Software Development,"C++, Java",Software Developer
+88.85,86.61,6.68,Cybersecurity,"Wireshark, Linux, Cryptography",Cybersecurity Analyst
+79.97,87.95,8.99,Cybersecurity,"Network Security, Linux, Firewalls",Cybersecurity Analyst
+81.82,94.54,8.94,Software Development,"Spring Boot, Problem Solving, C++, Git",Software Developer
+85.88,74.47,6.31,Web Development,"JavaScript, HTML",Web Developer
+90.71,87.98,9.35,Data Science,"Data Analysis, Machine Learning, Python, Pandas",Data Scientist
+81.59,61.82,6.99,AI/ML,"Keras, Deep Learning, TensorFlow",Machine Learning Engineer
+83.16,71.49,6.27,Web Development,"Bootstrap, React",Web Developer
+61.67,85.96,9.34,Web Development,"CSS, React, Node.js, Bootstrap",Web Developer
+90.3,65.33,7.99,Data Science,"SQL, Data Analysis, Machine Learning",Data Scientist
+64.88,62.85,7.09,AI/ML,"TensorFlow, Deep Learning, Python, Scikit-learn, Keras",Machine Learning Engineer
+64.05,64.5,8.38,Data Science,"SQL, NumPy, Data Analysis",Data Scientist
+72.2,88.23,7.85,AI/ML,"Keras, TensorFlow, Deep Learning, NLP, Python",Machine Learning Engineer
+62.45,83.88,8.6,Design,"Adobe XD, Photoshop, Sketch",UX/UI Designer
+73.83,93.02,8.65,Design,"UI/UX, Creativity, Sketch",UX/UI Designer
+91.05,78.48,6.27,Data Science,"SQL, Pandas, Machine Learning, NumPy",Data Scientist
+65.33,60.84,6.97,Cybersecurity,"Network Security, Firewalls, Wireshark, Linux, Cryptography",Cybersecurity Analyst
+71.95,68.26,8.07,Web Development,"CSS, HTML, JavaScript",Web Developer
+91.45,69.53,8.38,Software Development,"Spring Boot, Java, Git, C++",Software Developer
+63.63,78.35,9.23,Data Science,"SQL, Data Analysis",Data Scientist
+63.24,70.91,7.17,Web Development,"Bootstrap, React",Web Developer
+88.37,72.33,6.92,Software Development,"C++, OOP, Spring Boot, Git",Software Developer
+80.52,72.83,6.62,Design,"Figma, Creativity, Photoshop, Sketch, Adobe XD",UX/UI Designer
+92.94,64.74,7.25,AI/ML,"NLP, TensorFlow, Python",Machine Learning Engineer
+94.72,66.03,9.01,Cybersecurity,"Wireshark, Firewalls, Network Security, Linux",Cybersecurity Analyst
+61.62,70.62,8.14,Design,"UI/UX, Figma, Photoshop, Creativity, Adobe XD",UX/UI Designer
+89.49,93.03,8.13,Design,"Sketch, Figma, Adobe XD, Creativity, Photoshop",UX/UI Designer
+62.45,80.68,8.65,Data Science,"SQL, Pandas, Machine Learning, Python, NumPy",Data Scientist
+76.58,72.81,8.52,Web Development,"CSS, Node.js, HTML, Bootstrap",Web Developer
+92.11,89.19,7.28,Data Science,"SQL, NumPy, Data Analysis, Pandas, Machine Learning",Data Scientist
+83.56,64.88,7.26,Design,"Sketch, UI/UX, Figma",UX/UI Designer
+73.12,89.57,8.31,Cloud Computing,"AWS, Docker, DevOps, Azure, Kubernetes",Cloud Engineer
+83.68,74.38,6.2,Cybersecurity,"Wireshark, Network Security, Cryptography",Cybersecurity Analyst
+77.52,92.89,9.3,Design,"Adobe XD, Creativity",UX/UI Designer
+66.06,92.47,6.47,Cybersecurity,"Cryptography, Wireshark, Network Security, Firewalls",Cybersecurity Analyst
+83.44,91.64,8.37,Web Development,"React, Bootstrap, JavaScript",Web Developer
+80.28,82.05,6.36,Web Development,"Bootstrap, Node.js, CSS",Web Developer
+88.42,65.31,9.26,Web Development,"Node.js, HTML, CSS, JavaScript, React",Web Developer
+67.18,74.6,9.25,Software Development,"Git, Problem Solving, C++",Software Developer
+78.24,76.52,6.54,AI/ML,"Deep Learning, TensorFlow",Machine Learning Engineer
+88.01,64.72,8.69,Cybersecurity,"Cryptography, Linux, Firewalls",Cybersecurity Analyst
+83.59,74.28,7.42,Design,"Creativity, Figma",UX/UI Designer
+68.88,80.25,7.67,Design,"UI/UX, Sketch, Figma",UX/UI Designer
+89.6,74.89,7.57,Web Development,"HTML, CSS, React, JavaScript, Bootstrap",Web Developer
+80.47,90.51,7.76,Web Development,"Node.js, JavaScript",Web Developer
+87.85,78.36,6.37,Software Development,"Spring Boot, Problem Solving, Java, Git",Software Developer
+71.03,86.4,9.12,Cybersecurity,"Ethical Hacking, Firewalls, Linux, Wireshark, Network Security",Cybersecurity Analyst
+73.79,84.04,6.97,Web Development,"React, CSS, HTML, Bootstrap, JavaScript",Web Developer
+77.39,78.57,9.16,Cybersecurity,"Firewalls, Ethical Hacking, Network Security",Cybersecurity Analyst
+80.16,81.44,8.36,Cloud Computing,"Kubernetes, Docker, DevOps",Cloud Engineer
+70.33,76.43,8.48,Data Science,"Data Analysis, NumPy, Python, Machine Learning",Data Scientist
+91.21,78.46,7.48,Cloud Computing,"DevOps, Kubernetes, Azure, AWS",Cloud Engineer
+62.94,65.3,6.01,AI/ML,"NLP, TensorFlow",Machine Learning Engineer
+87.64,68.5,6.71,Software Development,"OOP, Spring Boot",Software Developer
+85.02,83.68,9.34,Cloud Computing,"Terraform, Azure, DevOps, Docker",Cloud Engineer
+69.49,67.79,8.29,Web Development,"Node.js, CSS, JavaScript",Web Developer
+74.32,61.35,6.36,Cybersecurity,"Firewalls, Ethical Hacking, Network Security, Wireshark",Cybersecurity Analyst
+88.17,92.39,6.47,Cybersecurity,"Firewalls, Wireshark, Cryptography, Linux, Network Security",Cybersecurity Analyst
+61.64,75.92,8.07,Design,"Creativity, Photoshop, Adobe XD, Sketch",UX/UI Designer
+62.9,83.64,9.13,Cloud Computing,"Kubernetes, AWS, Docker",Cloud Engineer
+77.75,82.62,8.66,Cloud Computing,"Kubernetes, Docker, DevOps, Azure",Cloud Engineer
+70.39,80.47,6.03,Web Development,"Bootstrap, React",Web Developer
+61.23,71.93,7.69,Data Science,"SQL, Python",Data Scientist
+80.27,67.41,7.89,Web Development,"JavaScript, CSS, Bootstrap, HTML, Node.js",Web Developer
+68.16,60.12,7.04,AI/ML,"Deep Learning, NLP, Scikit-learn, Python",Machine Learning Engineer
+71.39,74.67,8.57,Design,"Photoshop, Sketch, Creativity",UX/UI Designer
+81.59,78.82,7.78,Design,"Figma, UI/UX",UX/UI Designer
+77.29,86.15,9.21,Cybersecurity,"Network Security, Wireshark, Firewalls, Linux, Cryptography",Cybersecurity Analyst
+74.16,92.08,9.07,Data Science,"Machine Learning, Data Analysis",Data Scientist
+94.81,70.09,8.36,Design,"Photoshop, Creativity",UX/UI Designer
+75.11,87.79,7.4,Design,"Photoshop, Sketch",UX/UI Designer
+68.48,71.81,7.01,AI/ML,"Scikit-learn, TensorFlow",Machine Learning Engineer
+84.05,71.09,9.21,Data Science,"SQL, Pandas",Data Scientist
+90.34,90.55,8.91,Web Development,"Node.js, CSS, HTML, JavaScript, Bootstrap",Web Developer
+61.65,75.31,8.42,Data Science,"Data Analysis, NumPy, Machine Learning, SQL",Data Scientist
+90.41,63.59,9.3,Software Development,"Git, Problem Solving, OOP",Software Developer
+89.06,88.19,8.78,AI/ML,"TensorFlow, NLP, Deep Learning",Machine Learning Engineer
+87.26,77.79,8.83,Design,"Sketch, Creativity, Photoshop, Figma",UX/UI Designer
+62.04,81.38,7.04,Web Development,"Bootstrap, JavaScript",Web Developer
+74.78,92.98,7.63,Design,"Figma, Photoshop, Creativity",UX/UI Designer
+90.55,62.67,8.49,Design,"Adobe XD, Figma, UI/UX, Photoshop",UX/UI Designer
+67.77,63.5,6.29,AI/ML,"Python, TensorFlow, Keras, Scikit-learn, Deep Learning",Machine Learning Engineer
+85.64,88.61,6.92,Design,"Sketch, Creativity, Figma",UX/UI Designer
+73.58,67.63,7.1,Data Science,"Data Analysis, NumPy, Pandas, SQL",Data Scientist
+81.08,83.87,7.35,Web Development,"React, HTML, Bootstrap",Web Developer
+90.26,67.68,8.65,Software Development,"Spring Boot, OOP, Java",Software Developer
+67.22,84.59,7.78,Cybersecurity,"Network Security, Linux, Ethical Hacking, Cryptography, Firewalls",Cybersecurity Analyst
+85.88,90.18,7.65,Data Science,"Data Analysis, Machine Learning, Pandas, SQL, Python",Data Scientist
+66.98,74.35,6.36,Cloud Computing,"Kubernetes, DevOps, Terraform, Azure",Cloud Engineer
+61.01,62.75,7.54,Data Science,"Data Analysis, Pandas",Data Scientist
+94.0,85.05,6.95,Cloud Computing,"AWS, Azure, DevOps",Cloud Engineer
+76.5,68.55,7.57,Web Development,"HTML, Node.js, Bootstrap",Web Developer
+81.78,79.99,6.21,Cybersecurity,"Ethical Hacking, Firewalls, Cryptography, Linux",Cybersecurity Analyst
+80.0,64.99,8.9,Data Science,"Pandas, Data Analysis, SQL, Machine Learning, Python",Data Scientist
+94.12,80.86,6.33,Cybersecurity,"Wireshark, Firewalls, Cryptography, Linux",Cybersecurity Analyst
+94.93,85.34,7.33,Web Development,"Bootstrap, Node.js, CSS, JavaScript",Web Developer
+85.56,76.97,7.5,Data Science,"Pandas, SQL, Machine Learning",Data Scientist
+64.48,92.13,6.41,Web Development,"JavaScript, HTML, CSS, React, Bootstrap",Web Developer
+73.59,69.38,9.03,AI/ML,"Keras, NLP, Scikit-learn, TensorFlow, Deep Learning",Machine Learning Engineer
+62.26,73.23,6.94,Cybersecurity,"Wireshark, Ethical Hacking, Linux",Cybersecurity Analyst
+69.21,87.69,6.55,Cybersecurity,"Ethical Hacking, Wireshark",Cybersecurity Analyst
+70.49,92.83,6.47,AI/ML,"Deep Learning, Keras, Python, Scikit-learn, NLP",Machine Learning Engineer
+81.92,60.4,6.11,Data Science,"NumPy, SQL",Data Scientist
+86.63,74.78,8.27,Data Science,"Pandas, NumPy, Machine Learning",Data Scientist
+63.04,65.43,7.04,Web Development,"CSS, JavaScript, React, HTML, Node.js",Web Developer
+92.04,81.6,7.28,Web Development,"React, JavaScript, Node.js, CSS, Bootstrap",Web Developer
+87.15,62.02,7.88,Cloud Computing,"Docker, Kubernetes, Azure, DevOps, Terraform",Cloud Engineer
+65.94,69.42,6.45,Cybersecurity,"Firewalls, Ethical Hacking",Cybersecurity Analyst
+83.37,75.58,6.99,Design,"Adobe XD, Sketch, Creativity",UX/UI Designer
+86.16,65.21,7.89,AI/ML,"NLP, Python, TensorFlow, Deep Learning, Scikit-learn",Machine Learning Engineer
+85.62,74.97,6.73,Software Development,"OOP, Spring Boot, Java, Git, Problem Solving",Software Developer
+72.28,92.07,7.53,Software Development,"OOP, Problem Solving",Software Developer
+74.94,80.92,6.82,Software Development,"C++, Git, Spring Boot, Problem Solving",Software Developer
+93.38,84.16,8.29,Web Development,"JavaScript, React, Node.js, CSS, HTML",Web Developer
+70.46,87.19,7.03,Web Development,"Node.js, React, HTML",Web Developer
+87.19,90.87,7.83,Data Science,"SQL, NumPy, Pandas, Python",Data Scientist
+67.8,91.86,6.44,Web Development,"CSS, Bootstrap, React, JavaScript, Node.js",Web Developer
+64.05,65.39,7.74,Cybersecurity,"Wireshark, Linux, Firewalls, Network Security, Cryptography",Cybersecurity Analyst
+68.76,73.72,6.37,Cloud Computing,"Azure, Docker, DevOps, Kubernetes",Cloud Engineer
+72.79,67.96,7.46,Design,"Sketch, Photoshop, UI/UX, Creativity, Figma",UX/UI Designer
+65.19,76.87,9.24,Cybersecurity,"Wireshark, Cryptography, Network Security",Cybersecurity Analyst
+89.11,66.06,8.36,Data Science,"Pandas, NumPy, Machine Learning, Data Analysis, Python",Data Scientist
+70.61,74.9,7.84,AI/ML,"TensorFlow, Python, Deep Learning, Scikit-learn, Keras",Machine Learning Engineer
+67.69,74.22,8.63,Web Development,"JavaScript, HTML, React, Node.js, Bootstrap",Web Developer
+86.58,85.66,7.47,Data Science,"Machine Learning, SQL",Data Scientist
+72.78,83.17,6.14,Software Development,"C++, Problem Solving",Software Developer
+63.62,84.92,8.54,Web Development,"HTML, JavaScript, React",Web Developer
+80.21,84.29,9.31,Cybersecurity,"Wireshark, Network Security, Linux, Cryptography, Firewalls",Cybersecurity Analyst
+87.21,82.52,8.13,Cloud Computing,"Terraform, Docker, Azure",Cloud Engineer
+71.18,65.17,6.33,AI/ML,"NLP, Keras, TensorFlow, Scikit-learn, Deep Learning",Machine Learning Engineer
+69.03,86.49,9.06,Cloud Computing,"Terraform, Docker, Azure, AWS",Cloud Engineer
+84.38,79.22,6.38,Data Science,"Python, SQL, Pandas, Machine Learning",Data Scientist
+78.66,79.97,8.23,Design,"Figma, Sketch, Creativity, UI/UX",UX/UI Designer
+61.82,60.02,9.0,Software Development,"OOP, Problem Solving, Java, Git, C++",Software Developer
+70.67,63.33,7.29,Web Development,"HTML, JavaScript, Node.js, React, CSS",Web Developer
+93.82,89.48,7.97,Data Science,"Python, Pandas, Data Analysis, Machine Learning, SQL",Data Scientist
+84.79,90.25,8.23,Software Development,"Git, Java",Software Developer
+87.4,80.47,9.44,Software Development,"OOP, C++, Java",Software Developer
+78.04,67.16,8.09,Software Development,"Git, Spring Boot, Problem Solving, OOP, C++",Software Developer
+88.19,86.96,9.16,Cybersecurity,"Cryptography, Wireshark, Linux",Cybersecurity Analyst
+73.45,76.33,6.27,Web Development,"Bootstrap, JavaScript, CSS, React",Web Developer
+92.33,63.08,7.9,Software Development,"Spring Boot, Problem Solving, OOP, Java, Git",Software Developer
+71.1,80.54,8.15,AI/ML,"Python, Scikit-learn, NLP, TensorFlow, Deep Learning",Machine Learning Engineer
+74.6,84.31,8.71,Cybersecurity,"Network Security, Firewalls, Wireshark",Cybersecurity Analyst
+92.01,68.6,6.15,Web Development,"CSS, React",Web Developer
+73.04,68.31,7.16,Software Development,"C++, Problem Solving, OOP, Spring Boot",Software Developer
+86.08,76.98,6.17,Cloud Computing,"AWS, Terraform",Cloud Engineer
+91.49,87.28,8.42,Design,"UI/UX, Sketch, Photoshop",UX/UI Designer
+79.19,81.44,7.28,Software Development,"C++, Spring Boot, Problem Solving",Software Developer
+71.11,87.2,6.97,Software Development,"Java, Spring Boot, OOP, Problem Solving, Git",Software Developer
+75.01,81.04,7.18,AI/ML,"Keras, Deep Learning",Machine Learning Engineer
+77.4,72.09,6.17,Web Development,"CSS, JavaScript, Bootstrap, HTML, React",Web Developer
+66.2,94.44,8.3,Cloud Computing,"DevOps, Azure, Kubernetes, Docker",Cloud Engineer
+66.22,79.08,7.9,Data Science,"NumPy, Data Analysis, Python, SQL",Data Scientist
+93.97,73.02,8.61,AI/ML,"NLP, Deep Learning, Python, Keras",Machine Learning Engineer
+85.91,66.46,7.1,Web Development,"Node.js, CSS, React, Bootstrap",Web Developer
+80.93,77.92,6.78,Web Development,"Node.js, HTML",Web Developer
+80.03,86.47,6.95,Software Development,"Java, Git, Problem Solving, C++",Software Developer
+61.78,69.57,9.49,Cybersecurity,"Ethical Hacking, Wireshark, Cryptography",Cybersecurity Analyst
+66.46,78.28,7.67,Cloud Computing,"Terraform, Docker, Azure",Cloud Engineer
+67.66,92.44,8.64,Software Development,"Git, Java, C++, Problem Solving",Software Developer
+73.83,71.13,6.7,Design,"Creativity, UI/UX, Figma",UX/UI Designer
+64.08,71.48,7.72,Data Science,"Python, Machine Learning, Data Analysis, Pandas",Data Scientist
+63.97,76.81,6.89,Data Science,"Pandas, Python",Data Scientist
+65.79,77.43,7.94,Cloud Computing,"Terraform, Azure",Cloud Engineer
+80.13,89.3,7.41,Cybersecurity,"Network Security, Wireshark, Linux, Firewalls",Cybersecurity Analyst
+80.77,82.7,8.23,Cloud Computing,"AWS, Azure, Terraform",Cloud Engineer
+63.64,73.47,6.49,Cybersecurity,"Linux, Wireshark, Network Security, Ethical Hacking",Cybersecurity Analyst
+68.05,77.49,6.4,Data Science,"SQL, Pandas",Data Scientist
+69.3,60.37,6.23,Web Development,"JavaScript, CSS, HTML, Node.js",Web Developer
+84.21,88.27,6.37,Design,"Creativity, Sketch, UI/UX, Adobe XD, Photoshop",UX/UI Designer
+94.55,86.58,9.04,Design,"Sketch, UI/UX, Creativity",UX/UI Designer
+82.27,79.13,7.2,Web Development,"Bootstrap, Node.js, React, CSS",Web Developer
+82.55,90.95,8.11,Cloud Computing,"AWS, Kubernetes",Cloud Engineer
+66.27,62.78,7.53,AI/ML,"NLP, TensorFlow, Python, Deep Learning, Keras",Machine Learning Engineer
+85.77,62.39,7.48,Cybersecurity,"Wireshark, Cryptography, Firewalls",Cybersecurity Analyst
+77.33,64.44,7.99,Data Science,"SQL, Python",Data Scientist
+64.94,87.25,9.08,Cybersecurity,"Wireshark, Cryptography",Cybersecurity Analyst
+75.53,81.37,9.31,Cloud Computing,"Docker, Kubernetes, DevOps, Azure, Terraform",Cloud Engineer
+71.52,75.7,9.09,Design,"Photoshop, Figma, UI/UX, Creativity",UX/UI Designer
+71.21,91.99,8.64,Cloud Computing,"DevOps, Terraform, Docker",Cloud Engineer
+75.08,61.02,6.16,Data Science,"Machine Learning, NumPy",Data Scientist
+81.16,92.59,6.66,Cybersecurity,"Network Security, Wireshark, Firewalls",Cybersecurity Analyst
+72.59,84.71,6.12,Cloud Computing,"Azure, Kubernetes, DevOps",Cloud Engineer
+67.68,91.49,7.15,Cloud Computing,"AWS, Terraform, DevOps, Kubernetes",Cloud Engineer
+79.65,68.48,7.3,Software Development,"Problem Solving, OOP, Git",Software Developer
+66.98,77.76,6.58,Cybersecurity,"Firewalls, Wireshark, Linux, Cryptography",Cybersecurity Analyst
+81.14,86.77,8.18,Data Science,"Pandas, Data Analysis, Machine Learning, SQL",Data Scientist
+81.09,92.39,6.3,Web Development,"React, JavaScript, HTML",Web Developer
+71.65,62.11,9.18,AI/ML,"Keras, Deep Learning, Scikit-learn, NLP",Machine Learning Engineer
+88.78,71.63,6.14,AI/ML,"NLP, Deep Learning, Keras, Scikit-learn",Machine Learning Engineer
+88.35,83.97,6.02,Cloud Computing,"DevOps, Azure",Cloud Engineer
+76.08,92.37,7.75,AI/ML,"NLP, Keras, Python, Scikit-learn",Machine Learning Engineer
+76.95,77.36,8.95,Design,"Figma, Photoshop",UX/UI Designer
+70.52,66.78,8.16,Web Development,"Node.js, HTML, React, Bootstrap",Web Developer
+90.07,64.88,6.8,Web Development,"HTML, CSS",Web Developer
+80.37,78.62,6.41,Software Development,"Spring Boot, Problem Solving, Java, OOP, Git",Software Developer
+78.49,94.98,7.09,Data Science,"Data Analysis, SQL, Python",Data Scientist
+76.0,89.4,7.34,Cybersecurity,"Cryptography, Firewalls, Linux, Ethical Hacking",Cybersecurity Analyst
+72.81,76.43,6.42,Web Development,"React, HTML",Web Developer
+65.39,75.99,7.71,Cloud Computing,"Kubernetes, AWS",Cloud Engineer
+63.45,70.77,7.18,AI/ML,"NLP, Deep Learning",Machine Learning Engineer
+64.12,62.59,9.38,Software Development,"C++, Git",Software Developer
+64.88,84.02,6.93,Design,"Photoshop, UI/UX",UX/UI Designer
+79.54,80.64,9.24,Software Development,"Spring Boot, Problem Solving, C++",Software Developer
+76.13,89.85,6.51,AI/ML,"Python, Deep Learning, Scikit-learn, Keras",Machine Learning Engineer
+70.54,86.3,8.93,Cloud Computing,"Azure, Terraform, AWS, Kubernetes, Docker",Cloud Engineer
+68.4,61.73,8.06,Software Development,"Java, Git, Problem Solving, C++, OOP",Software Developer
+77.72,87.68,6.04,Cloud Computing,"Kubernetes, Azure",Cloud Engineer
+84.49,89.5,6.72,Software Development,"Spring Boot, OOP",Software Developer
+77.91,90.95,6.36,Cloud Computing,"AWS, Kubernetes, Docker",Cloud Engineer
+60.88,73.18,7.69,Design,"Adobe XD, Photoshop, Figma, Creativity",UX/UI Designer
+66.16,94.63,7.88,Cloud Computing,"DevOps, Terraform, Azure",Cloud Engineer
+92.53,70.13,6.27,Web Development,"JavaScript, HTML, Node.js",Web Developer
+74.79,93.02,6.48,Web Development,"React, Node.js, Bootstrap, CSS",Web Developer
+80.11,94.32,8.13,Cloud Computing,"Kubernetes, Docker",Cloud Engineer
+86.46,82.74,7.83,Cybersecurity,"Wireshark, Firewalls, Cryptography",Cybersecurity Analyst
+82.19,62.78,8.52,Design,"Creativity, Sketch",UX/UI Designer
+76.46,64.11,7.33,AI/ML,"Scikit-learn, NLP, TensorFlow, Python, Keras",Machine Learning Engineer
+86.03,71.63,6.06,Data Science,"SQL, Python, Machine Learning, Pandas",Data Scientist
+70.77,91.79,8.16,Cybersecurity,"Cryptography, Ethical Hacking, Network Security, Firewalls, Linux",Cybersecurity Analyst
+65.93,80.21,6.59,Software Development,"Git, Spring Boot",Software Developer
+72.28,88.74,9.24,Data Science,"NumPy, Pandas, Machine Learning, Python, SQL",Data Scientist
+64.06,91.55,7.87,Design,"Adobe XD, Creativity",UX/UI Designer
+84.89,69.74,8.08,Software Development,"Git, Spring Boot, C++, OOP, Problem Solving",Software Developer
+75.59,91.82,7.42,Cloud Computing,"AWS, Kubernetes, Azure",Cloud Engineer
+69.63,83.63,7.44,Design,"Sketch, Adobe XD, Figma, Photoshop",UX/UI Designer
+89.8,73.69,6.51,Web Development,"CSS, Bootstrap",Web Developer
+88.82,79.95,9.01,Web Development,"React, Bootstrap, CSS, Node.js",Web Developer
+83.93,64.2,8.63,Design,"Figma, UI/UX, Photoshop, Adobe XD, Sketch",UX/UI Designer
+71.24,86.18,7.5,Web Development,"React, Node.js, CSS",Web Developer
+70.39,85.49,8.62,AI/ML,"Scikit-learn, Deep Learning",Machine Learning Engineer
+68.62,70.5,6.43,Cybersecurity,"Cryptography, Wireshark, Linux, Network Security",Cybersecurity Analyst
+70.07,83.85,9.35,AI/ML,"NLP, Python",Machine Learning Engineer
+68.82,80.41,9.43,Data Science,"Pandas, Machine Learning, NumPy, Data Analysis",Data Scientist
+70.64,90.69,7.65,AI/ML,"NLP, Scikit-learn",Machine Learning Engineer
+87.21,70.08,7.02,Data Science,"Data Analysis, Python, SQL, NumPy",Data Scientist
+61.63,73.16,6.94,Design,"Photoshop, UI/UX, Adobe XD",UX/UI Designer
+84.0,70.58,6.98,AI/ML,"Scikit-learn, Python, Keras",Machine Learning Engineer
+61.78,88.62,6.32,Web Development,"HTML, React, JavaScript, Node.js, CSS",Web Developer
+88.54,65.93,9.16,Web Development,"CSS, HTML",Web Developer
+77.48,62.24,9.26,Cloud Computing,"Azure, Docker, AWS",Cloud Engineer
+76.28,76.81,7.14,Data Science,"NumPy, SQL, Data Analysis, Python, Machine Learning",Data Scientist
+68.78,62.54,6.81,Cloud Computing,"Docker, AWS, Azure, Terraform",Cloud Engineer
+77.03,63.73,8.93,Cloud Computing,"Terraform, Azure, Kubernetes",Cloud Engineer
+70.94,66.3,6.53,Cybersecurity,"Wireshark, Cryptography, Ethical Hacking, Firewalls",Cybersecurity Analyst
+72.43,63.45,8.63,Web Development,"HTML, Bootstrap, React, JavaScript, CSS",Web Developer
+67.59,75.53,9.18,Cybersecurity,"Ethical Hacking, Network Security, Wireshark, Cryptography, Firewalls",Cybersecurity Analyst
+71.26,67.95,7.85,AI/ML,"NLP, Python, Deep Learning",Machine Learning Engineer
+87.74,81.49,6.7,Cloud Computing,"AWS, Kubernetes",Cloud Engineer
+90.01,67.52,9.3,Software Development,"C++, Git, OOP, Problem Solving",Software Developer
+86.33,83.27,9.45,Design,"Sketch, Creativity",UX/UI Designer
+92.05,79.25,6.2,Design,"UI/UX, Photoshop",UX/UI Designer
+66.83,65.14,8.58,Design,"Photoshop, Figma, Creativity, Sketch",UX/UI Designer
+93.66,92.07,9.38,Data Science,"Data Analysis, Python, NumPy, Pandas",Data Scientist
+85.53,61.67,6.7,Cybersecurity,"Wireshark, Linux, Firewalls, Cryptography",Cybersecurity Analyst
+70.09,60.52,7.16,Software Development,"Problem Solving, Spring Boot, Git, C++",Software Developer
+84.42,60.25,7.17,Data Science,"Machine Learning, NumPy",Data Scientist
+82.63,63.73,6.79,Web Development,"CSS, Node.js",Web Developer
+74.58,71.69,6.03,AI/ML,"Keras, Deep Learning",Machine Learning Engineer
+72.37,76.76,7.17,Cybersecurity,"Linux, Wireshark",Cybersecurity Analyst
+66.12,90.42,6.8,Web Development,"CSS, React",Web Developer
+80.3,83.85,9.23,Software Development,"Git, Java, Spring Boot, C++, Problem Solving",Software Developer
+83.94,64.75,8.19,Design,"UI/UX, Adobe XD",UX/UI Designer
+81.42,92.14,7.62,AI/ML,"Deep Learning, Python, NLP, TensorFlow, Scikit-learn",Machine Learning Engineer
+83.94,69.38,6.69,Data Science,"Pandas, NumPy",Data Scientist
+82.72,90.35,8.93,Software Development,"Problem Solving, C++",Software Developer
+68.98,91.7,8.99,Cloud Computing,"Kubernetes, Docker, Azure, Terraform",Cloud Engineer
+82.85,69.34,8.32,Design,"Figma, Photoshop",UX/UI Designer
+70.6,71.26,9.39,Cybersecurity,"Network Security, Firewalls, Cryptography, Ethical Hacking",Cybersecurity Analyst
+86.84,80.76,7.18,Cybersecurity,"Linux, Network Security",Cybersecurity Analyst
+64.89,62.03,8.9,Cloud Computing,"Kubernetes, Azure, Terraform",Cloud Engineer
+85.5,75.27,6.67,Cybersecurity,"Firewalls, Ethical Hacking, Network Security",Cybersecurity Analyst
+67.11,81.94,8.32,Web Development,"JavaScript, Bootstrap, Node.js",Web Developer
+94.98,78.22,7.82,AI/ML,"Scikit-learn, Deep Learning, NLP, TensorFlow, Keras",Machine Learning Engineer
+80.94,63.9,8.33,Software Development,"Problem Solving, Spring Boot, C++",Software Developer
+79.39,94.94,9.34,Cloud Computing,"AWS, Kubernetes, Docker, DevOps, Terraform",Cloud Engineer
+75.26,67.45,7.46,Cybersecurity,"Cryptography, Firewalls, Network Security, Wireshark",Cybersecurity Analyst
+85.84,77.7,6.95,Cloud Computing,"Kubernetes, AWS, Docker",Cloud Engineer
+86.8,70.01,6.7,Cybersecurity,"Network Security, Ethical Hacking, Wireshark, Firewalls",Cybersecurity Analyst
+90.19,78.01,6.16,AI/ML,"Deep Learning, Scikit-learn, Python, Keras, TensorFlow",Machine Learning Engineer
+87.18,66.55,7.76,Web Development,"Bootstrap, HTML, JavaScript, React",Web Developer
+64.38,65.7,9.3,Cybersecurity,"Ethical Hacking, Wireshark, Linux",Cybersecurity Analyst
+79.75,80.34,8.77,Design,"Adobe XD, Sketch, Creativity",UX/UI Designer
+83.74,75.48,8.62,Software Development,"Java, Spring Boot",Software Developer
+66.52,91.7,9.22,Design,"Sketch, Photoshop, Adobe XD, Creativity, UI/UX",UX/UI Designer
+88.81,65.67,7.81,Cybersecurity,"Ethical Hacking, Firewalls, Linux, Cryptography, Wireshark",Cybersecurity Analyst
+89.62,70.93,8.64,Data Science,"NumPy, Data Analysis, Machine Learning, Python, SQL",Data Scientist
+68.62,62.76,8.2,Software Development,"Problem Solving, Spring Boot, Java, OOP, Git",Software Developer
+67.87,84.18,8.1,Web Development,"Bootstrap, CSS, React, JavaScript, Node.js",Web Developer
+63.65,61.7,7.14,Design,"Sketch, UI/UX",UX/UI Designer
+85.5,85.0,9.08,Design,"Sketch, UI/UX, Adobe XD, Figma, Creativity",UX/UI Designer
+94.81,69.01,7.5,AI/ML,"Python, Deep Learning, Scikit-learn, NLP, TensorFlow",Machine Learning Engineer
+71.18,70.1,7.18,AI/ML,"TensorFlow, Keras, Scikit-learn, NLP, Python",Machine Learning Engineer
+69.73,81.07,8.31,AI/ML,"Deep Learning, Keras, Python, TensorFlow",Machine Learning Engineer
+86.19,78.19,8.66,Software Development,"C++, Problem Solving",Software Developer
+68.34,71.63,7.85,Design,"Photoshop, Figma, Creativity, Adobe XD, UI/UX",UX/UI Designer
+62.37,75.31,8.46,AI/ML,"Scikit-learn, TensorFlow, Python, Keras, NLP",Machine Learning Engineer
+78.23,93.31,7.13,Web Development,"JavaScript, Bootstrap, CSS, HTML",Web Developer
+62.21,82.17,8.11,Software Development,"OOP, Problem Solving, Spring Boot, Java, C++",Software Developer
+90.28,79.07,7.64,AI/ML,"Scikit-learn, NLP",Machine Learning Engineer
+70.61,74.52,8.25,Cybersecurity,"Ethical Hacking, Firewalls, Cryptography, Wireshark, Linux",Cybersecurity Analyst
+82.54,93.04,9.14,Cloud Computing,"Kubernetes, Azure, Terraform, Docker, DevOps",Cloud Engineer
+85.66,85.92,7.74,Web Development,"HTML, React, Node.js",Web Developer
+90.52,74.08,8.62,Cybersecurity,"Cryptography, Linux, Ethical Hacking",Cybersecurity Analyst
+62.9,61.64,7.21,Cybersecurity,"Firewalls, Ethical Hacking, Wireshark",Cybersecurity Analyst
+62.18,90.66,6.82,Cybersecurity,"Ethical Hacking, Linux, Firewalls, Wireshark",Cybersecurity Analyst
+73.86,83.66,6.32,Design,"Photoshop, Adobe XD, Sketch, Figma, Creativity",UX/UI Designer
+84.14,74.82,6.56,Data Science,"Machine Learning, Pandas, Data Analysis, Python",Data Scientist
+60.45,92.34,7.21,Cybersecurity,"Wireshark, Network Security",Cybersecurity Analyst
+84.6,89.6,8.01,Design,"Adobe XD, Sketch, Photoshop",UX/UI Designer
+86.28,80.65,7.47,Cybersecurity,"Wireshark, Linux",Cybersecurity Analyst
+66.49,71.91,7.5,Cloud Computing,"Kubernetes, Docker",Cloud Engineer
+82.36,66.26,8.17,Design,"Creativity, UI/UX, Adobe XD, Photoshop",UX/UI Designer
+88.6,62.08,7.99,AI/ML,"TensorFlow, Deep Learning",Machine Learning Engineer
+89.79,61.29,8.76,Web Development,"Node.js, JavaScript, Bootstrap, CSS",Web Developer
+80.14,71.13,8.16,AI/ML,"TensorFlow, Keras, Scikit-learn",Machine Learning Engineer
+65.41,73.44,6.2,Web Development,"CSS, Node.js, JavaScript, Bootstrap",Web Developer
+67.25,76.81,6.8,Cloud Computing,"Docker, DevOps, Terraform, Kubernetes, Azure",Cloud Engineer
+77.37,85.41,8.78,Software Development,"Spring Boot, Java, Problem Solving, OOP",Software Developer
+92.59,77.79,8.35,Web Development,"React, CSS, JavaScript, Node.js",Web Developer
+74.37,88.59,7.52,Software Development,"Git, Spring Boot",Software Developer
+79.52,64.36,7.94,Cybersecurity,"Cryptography, Linux",Cybersecurity Analyst
+85.17,60.37,7.61,Data Science,"Data Analysis, Machine Learning, NumPy",Data Scientist
+92.15,77.72,8.67,AI/ML,"NLP, TensorFlow",Machine Learning Engineer
+74.3,94.8,6.59,Cloud Computing,"Docker, AWS, Terraform",Cloud Engineer
+79.08,85.48,9.21,Data Science,"NumPy, Machine Learning",Data Scientist
+68.27,67.31,6.49,Cloud Computing,"Kubernetes, AWS, DevOps, Docker, Terraform",Cloud Engineer
+91.49,78.33,8.56,Design,"Sketch, Creativity, Adobe XD, Photoshop, Figma",UX/UI Designer
+91.07,92.73,7.06,Web Development,"CSS, Node.js",Web Developer
+71.05,83.07,7.87,AI/ML,"Python, Scikit-learn",Machine Learning Engineer
+77.79,64.88,8.09,AI/ML,"Scikit-learn, TensorFlow",Machine Learning Engineer
+91.3,82.71,7.49,AI/ML,"Deep Learning, NLP, Scikit-learn",Machine Learning Engineer
+85.22,72.88,8.0,Data Science,"Python, NumPy",Data Scientist
+61.16,68.08,8.37,AI/ML,"Python, NLP",Machine Learning Engineer
+85.95,76.03,6.11,AI/ML,"Keras, TensorFlow, NLP, Deep Learning",Machine Learning Engineer
+64.96,92.96,7.3,Design,"Photoshop, Creativity",UX/UI Designer
+83.04,87.26,6.53,Data Science,"Python, Data Analysis, SQL, NumPy, Machine Learning",Data Scientist
+66.49,63.22,8.53,Cybersecurity,"Ethical Hacking, Cryptography",Cybersecurity Analyst
+77.55,86.47,6.69,Software Development,"Spring Boot, Git, C++",Software Developer
+86.8,64.47,6.99,AI/ML,"Keras, TensorFlow, Scikit-learn, Deep Learning",Machine Learning Engineer
+75.08,65.81,8.02,Data Science,"NumPy, Data Analysis, Pandas, SQL, Machine Learning",Data Scientist
+94.29,92.71,6.61,Data Science,"SQL, Machine Learning, Pandas, Python",Data Scientist
+79.3,60.03,8.98,Software Development,"Spring Boot, OOP, Java",Software Developer
+69.66,69.19,6.67,Cybersecurity,"Wireshark, Ethical Hacking, Cryptography",Cybersecurity Analyst
+88.14,71.63,6.59,AI/ML,"Keras, TensorFlow, Scikit-learn",Machine Learning Engineer
+69.32,84.8,8.06,Cloud Computing,"AWS, Docker, Kubernetes",Cloud Engineer
+77.65,90.15,8.27,Cloud Computing,"Azure, Kubernetes, Terraform, Docker, AWS",Cloud Engineer
+92.95,65.23,6.64,AI/ML,"TensorFlow, NLP, Scikit-learn, Keras, Deep Learning",Machine Learning Engineer
+78.79,80.19,7.08,Data Science,"NumPy, Pandas, Python, Machine Learning, SQL",Data Scientist
+85.65,93.17,9.08,Cybersecurity,"Firewalls, Wireshark",Cybersecurity Analyst
+86.32,75.03,7.78,Cybersecurity,"Wireshark, Cryptography, Firewalls, Network Security",Cybersecurity Analyst
+71.87,77.95,8.7,Data Science,"Python, SQL, NumPy",Data Scientist
+87.74,75.88,8.26,Cybersecurity,"Linux, Firewalls, Wireshark",Cybersecurity Analyst
+65.22,63.1,7.14,Web Development,"JavaScript, React, HTML, CSS",Web Developer
+90.26,62.05,8.07,Cybersecurity,"Cryptography, Wireshark, Network Security, Firewalls",Cybersecurity Analyst
+90.72,74.07,8.41,Design,"Creativity, Sketch",UX/UI Designer
+60.78,94.83,7.38,Software Development,"Java, Git, Spring Boot, Problem Solving, C++",Software Developer
+65.2,65.38,7.82,Software Development,"Spring Boot, C++, Java",Software Developer
+83.39,71.71,8.13,Cloud Computing,"Kubernetes, Docker",Cloud Engineer
+76.68,62.7,7.42,Cloud Computing,"DevOps, Terraform, Kubernetes",Cloud Engineer
+75.65,77.98,8.21,Web Development,"Node.js, React, Bootstrap, CSS, JavaScript",Web Developer
+67.01,81.61,8.39,AI/ML,"Python, NLP",Machine Learning Engineer
+72.06,65.23,6.58,Data Science,"SQL, Machine Learning, Data Analysis, Pandas, Python",Data Scientist
+93.61,71.47,7.17,Web Development,"JavaScript, HTML, Node.js, Bootstrap, React",Web Developer
+83.04,84.68,8.76,AI/ML,"Deep Learning, Keras",Machine Learning Engineer
+84.39,80.58,7.45,Data Science,"SQL, NumPy, Pandas",Data Scientist
+82.58,68.11,7.34,Data Science,"Pandas, SQL, NumPy, Machine Learning",Data Scientist
+65.27,82.56,9.46,Cloud Computing,"Docker, Azure, DevOps, Kubernetes, AWS",Cloud Engineer
+71.15,79.55,6.8,Cybersecurity,"Firewalls, Cryptography",Cybersecurity Analyst
+71.72,84.14,6.1,Cybersecurity,"Ethical Hacking, Firewalls, Wireshark",Cybersecurity Analyst
+90.24,69.39,6.3,Data Science,"NumPy, Python, SQL, Data Analysis, Pandas",Data Scientist
+83.26,79.95,6.97,Design,"Sketch, Figma",UX/UI Designer
+76.98,64.37,7.75,Design,"Creativity, UI/UX, Figma",UX/UI Designer
+62.85,64.18,8.62,Web Development,"Bootstrap, HTML",Web Developer
+85.54,88.12,8.62,AI/ML,"Python, NLP, Deep Learning, Keras, TensorFlow",Machine Learning Engineer
+90.8,86.95,7.05,Data Science,"SQL, Python, Machine Learning, Pandas, NumPy",Data Scientist
+65.57,61.97,9.2,Cybersecurity,"Ethical Hacking, Linux",Cybersecurity Analyst
+65.31,67.63,6.48,Web Development,"CSS, Bootstrap, HTML, Node.js",Web Developer
+80.93,81.51,8.0,AI/ML,"NLP, Python, TensorFlow",Machine Learning Engineer
+61.63,81.6,9.43,AI/ML,"Scikit-learn, TensorFlow, NLP",Machine Learning Engineer
+65.37,85.41,8.59,AI/ML,"Python, Deep Learning, NLP",Machine Learning Engineer
+62.89,78.07,8.14,Data Science,"Data Analysis, Python, Machine Learning, Pandas",Data Scientist
+68.24,94.37,7.08,Software Development,"Spring Boot, Problem Solving, C++, Java",Software Developer
+76.28,90.65,8.99,Web Development,"React, Bootstrap",Web Developer
+79.18,78.26,6.48,Software Development,"Git, Java, Problem Solving",Software Developer
+82.96,79.06,6.46,Software Development,"OOP, Problem Solving, C++, Spring Boot",Software Developer
+94.89,70.6,8.38,AI/ML,"Python, NLP, Scikit-learn",Machine Learning Engineer
+83.4,66.3,7.94,Web Development,"Node.js, CSS, JavaScript",Web Developer
+83.02,86.76,8.68,Cybersecurity,"Network Security, Cryptography, Wireshark, Ethical Hacking",Cybersecurity Analyst
+81.59,75.52,8.63,Software Development,"Git, Java, Spring Boot, C++, OOP",Software Developer
+78.3,67.63,8.13,Cloud Computing,"Terraform, Kubernetes, Docker",Cloud Engineer
+77.59,91.61,8.09,Cybersecurity,"Network Security, Firewalls",Cybersecurity Analyst
+75.69,64.73,7.64,Web Development,"HTML, Node.js, CSS",Web Developer
+92.82,78.18,9.33,Data Science,"Data Analysis, SQL, Python, Pandas, Machine Learning",Data Scientist
+68.06,71.52,6.53,Design,"UI/UX, Creativity, Photoshop, Figma",UX/UI Designer
+64.53,91.92,6.69,Web Development,"HTML, JavaScript, CSS, Bootstrap",Web Developer
+80.5,78.38,6.24,Software Development,"OOP, Java, Git",Software Developer
+60.44,89.79,6.34,Web Development,"Node.js, JavaScript, Bootstrap, HTML, React",Web Developer
+86.77,82.16,9.25,Cybersecurity,"Firewalls, Cryptography, Linux, Network Security, Wireshark",Cybersecurity Analyst
+84.37,86.07,6.25,Software Development,"OOP, Java, Problem Solving",Software Developer
+94.26,72.66,8.55,Cloud Computing,"Docker, Terraform, DevOps",Cloud Engineer
+79.3,66.41,7.64,Cloud Computing,"Terraform, Azure",Cloud Engineer
+72.34,66.49,7.43,AI/ML,"TensorFlow, Deep Learning, Python, Keras",Machine Learning Engineer
+77.44,73.13,8.79,Cybersecurity,"Ethical Hacking, Cryptography, Firewalls, Network Security, Linux",Cybersecurity Analyst
+68.56,71.8,6.7,Cybersecurity,"Wireshark, Ethical Hacking, Linux",Cybersecurity Analyst
+77.96,93.99,6.29,Design,"UI/UX, Photoshop",UX/UI Designer
+60.71,84.44,9.15,Design,"Sketch, Adobe XD, Figma",UX/UI Designer
+90.12,62.24,8.49,Data Science,"SQL, Python, Machine Learning",Data Scientist
+86.12,70.47,7.54,Data Science,"Pandas, Python, SQL, Machine Learning, NumPy",Data Scientist
+91.35,87.29,7.23,Cybersecurity,"Linux, Wireshark, Ethical Hacking, Network Security",Cybersecurity Analyst
+85.12,60.74,8.71,Cybersecurity,"Cryptography, Linux, Wireshark",Cybersecurity Analyst
+60.06,78.52,6.15,Cybersecurity,"Wireshark, Cryptography, Network Security",Cybersecurity Analyst
+71.09,80.04,6.8,Design,"UI/UX, Figma, Adobe XD, Creativity, Sketch",UX/UI Designer
+60.44,83.48,8.58,Data Science,"Data Analysis, Python, Machine Learning, Pandas, NumPy",Data Scientist
+68.0,82.87,6.49,Web Development,"HTML, CSS, React, Node.js, JavaScript",Web Developer
+90.67,65.87,6.05,Cybersecurity,"Cryptography, Linux, Firewalls, Wireshark",Cybersecurity Analyst
+67.18,70.02,7.4,Cybersecurity,"Network Security, Cryptography, Firewalls, Wireshark, Ethical Hacking",Cybersecurity Analyst
+64.64,91.78,8.42,AI/ML,"Keras, NLP, Scikit-learn, Python, Deep Learning",Machine Learning Engineer
+87.54,75.42,8.84,AI/ML,"NLP, Deep Learning, TensorFlow, Scikit-learn, Keras",Machine Learning Engineer
+63.42,69.76,9.08,Data Science,"Data Analysis, Machine Learning, Python, NumPy",Data Scientist
+83.46,91.81,8.91,AI/ML,"Scikit-learn, Python, NLP",Machine Learning Engineer
+60.48,61.56,7.81,Design,"Photoshop, UI/UX",UX/UI Designer
+80.91,79.49,7.31,Software Development,"Git, Problem Solving",Software Developer
+83.89,83.13,7.51,Cloud Computing,"DevOps, Terraform, AWS, Kubernetes, Docker",Cloud Engineer
+89.37,83.04,8.04,Cloud Computing,"Kubernetes, Terraform",Cloud Engineer
+64.62,92.15,8.59,Software Development,"Java, Spring Boot, Problem Solving, Git, OOP",Software Developer
+89.8,92.16,9.02,Cybersecurity,"Firewalls, Cryptography, Wireshark",Cybersecurity Analyst
+63.93,78.43,7.39,Design,"UI/UX, Adobe XD, Photoshop, Creativity",UX/UI Designer
+86.21,60.67,7.99,Data Science,"Data Analysis, SQL, Machine Learning, NumPy, Python",Data Scientist
+91.11,63.32,7.45,Software Development,"Java, Git, OOP",Software Developer
+91.79,86.48,6.24,Software Development,"Java, Problem Solving",Software Developer
+85.1,74.72,8.26,Web Development,"JavaScript, React, CSS, HTML, Node.js",Web Developer
+84.42,73.36,7.35,Software Development,"Spring Boot, Java",Software Developer
+90.06,84.14,8.61,Design,"Adobe XD, UI/UX, Figma",UX/UI Designer
+71.17,63.21,7.64,AI/ML,"Keras, Deep Learning, TensorFlow",Machine Learning Engineer
+93.8,89.89,8.4,Design,"UI/UX, Creativity, Adobe XD, Sketch",UX/UI Designer
+74.99,73.07,7.77,Software Development,"C++, Java, Git, Spring Boot",Software Developer
+72.52,91.1,8.97,Data Science,"Machine Learning, Data Analysis, SQL",Data Scientist
+90.42,61.85,6.79,AI/ML,"TensorFlow, Keras, Deep Learning",Machine Learning Engineer
+83.2,65.35,6.57,Software Development,"Spring Boot, Java, C++, OOP",Software Developer
+76.27,81.9,6.09,Cybersecurity,"Ethical Hacking, Linux, Cryptography, Network Security",Cybersecurity Analyst
+68.29,60.09,7.09,Software Development,"OOP, Problem Solving",Software Developer
+92.98,68.56,9.16,Design,"UI/UX, Figma, Creativity, Photoshop, Sketch",UX/UI Designer
+76.4,88.52,6.35,Data Science,"Pandas, Python",Data Scientist
+92.35,80.47,7.98,Design,"Figma, Photoshop, Sketch, Creativity, Adobe XD",UX/UI Designer
+85.25,74.28,9.4,Cloud Computing,"Azure, Docker, DevOps, AWS, Terraform",Cloud Engineer
+63.09,83.78,7.1,Data Science,"Python, SQL, NumPy, Pandas, Machine Learning",Data Scientist
+69.48,74.99,8.12,Data Science,"SQL, Machine Learning, Pandas",Data Scientist
+93.64,62.63,7.88,Design,"Photoshop, Adobe XD, UI/UX",UX/UI Designer
+76.44,68.53,8.55,Design,"Photoshop, UI/UX, Creativity, Adobe XD, Sketch",UX/UI Designer
+82.33,92.88,6.39,Cybersecurity,"Cryptography, Wireshark, Network Security",Cybersecurity Analyst
+69.49,62.58,8.88,Cloud Computing,"Kubernetes, AWS, Azure, Docker",Cloud Engineer
+69.0,65.61,7.15,Data Science,"Machine Learning, Pandas, SQL, Data Analysis",Data Scientist
+84.34,65.57,6.44,Software Development,"Spring Boot, Git, OOP",Software Developer
+61.09,85.83,8.19,Cybersecurity,"Firewalls, Ethical Hacking, Wireshark",Cybersecurity Analyst
+94.71,73.68,8.66,Software Development,"Java, Problem Solving",Software Developer
+80.59,75.77,8.86,AI/ML,"Scikit-learn, Keras",Machine Learning Engineer
+78.26,69.82,8.6,Web Development,"Node.js, CSS",Web Developer
+79.88,92.93,7.11,Cloud Computing,"Kubernetes, Docker, Azure, DevOps",Cloud Engineer
+68.58,68.66,8.67,Data Science,"Python, Pandas",Data Scientist
+73.95,75.78,6.59,Software Development,"C++, Spring Boot, OOP, Git",Software Developer
+71.7,68.54,7.97,Cloud Computing,"Azure, Terraform, Docker, Kubernetes",Cloud Engineer
+71.35,64.85,8.64,Data Science,"Python, NumPy",Data Scientist
+77.6,68.76,9.42,Cloud Computing,"Kubernetes, AWS",Cloud Engineer
+79.55,80.17,7.6,Cybersecurity,"Cryptography, Wireshark",Cybersecurity Analyst
+63.66,82.31,8.86,Web Development,"JavaScript, Node.js, React, CSS, Bootstrap",Web Developer
+82.98,72.76,8.63,Design,"Figma, Photoshop, Creativity, Adobe XD",UX/UI Designer
+88.62,77.89,8.42,Cybersecurity,"Network Security, Linux, Wireshark",Cybersecurity Analyst
+93.56,94.4,7.17,Cybersecurity,"Network Security, Linux, Ethical Hacking, Wireshark",Cybersecurity Analyst
+92.38,90.24,7.32,Cloud Computing,"Kubernetes, Azure, AWS, DevOps",Cloud Engineer
+71.16,82.99,7.72,Cloud Computing,"Azure, AWS, Kubernetes",Cloud Engineer
+84.76,88.22,8.22,Cybersecurity,"Firewalls, Linux, Cryptography, Wireshark, Network Security",Cybersecurity Analyst
+82.03,68.82,9.43,Cloud Computing,"AWS, DevOps",Cloud Engineer
+73.13,87.04,6.85,Software Development,"C++, Git, Problem Solving, Spring Boot",Software Developer
+84.69,72.86,6.46,AI/ML,"Keras, NLP, Scikit-learn, Python",Machine Learning Engineer
+90.49,63.78,9.32,Web Development,"HTML, Bootstrap, Node.js, React",Web Developer
+70.62,92.03,7.52,Software Development,"Git, Spring Boot, C++, Java, Problem Solving",Software Developer
+89.67,89.23,8.39,Web Development,"Bootstrap, Node.js, CSS",Web Developer
+90.9,88.23,8.84,Cloud Computing,"Azure, AWS, Kubernetes",Cloud Engineer
+78.8,79.86,8.74,Data Science,"Machine Learning, SQL, Pandas, Data Analysis, Python",Data Scientist
+73.96,76.36,6.37,Design,"Photoshop, Adobe XD, Creativity, Sketch, Figma",UX/UI Designer
+79.28,78.47,8.99,Design,"Photoshop, UI/UX",UX/UI Designer
+71.73,83.68,6.96,Software Development,"C++, Git, Java, OOP",Software Developer
+90.82,72.24,6.17,Cybersecurity,"Network Security, Ethical Hacking, Firewalls, Wireshark",Cybersecurity Analyst
+85.01,84.6,8.45,Cloud Computing,"DevOps, Azure, AWS, Docker, Kubernetes",Cloud Engineer
+74.61,90.14,8.29,Web Development,"JavaScript, Node.js, Bootstrap",Web Developer
+92.66,83.05,7.74,Web Development,"HTML, JavaScript, CSS, React, Bootstrap",Web Developer
+67.2,74.79,6.96,Data Science,"SQL, Pandas",Data Scientist
+69.7,79.47,8.74,Web Development,"Node.js, HTML, React, JavaScript, Bootstrap",Web Developer
+77.53,60.11,8.03,Cloud Computing,"DevOps, Kubernetes, Terraform",Cloud Engineer
+69.66,92.0,6.48,Data Science,"Machine Learning, SQL, Data Analysis",Data Scientist
+73.55,93.01,8.02,Cloud Computing,"Terraform, Docker, AWS, DevOps, Azure",Cloud Engineer
+82.84,69.42,6.1,AI/ML,"NLP, Scikit-learn, Keras, TensorFlow, Deep Learning",Machine Learning Engineer
+85.88,88.77,6.63,Cybersecurity,"Cryptography, Linux, Wireshark, Network Security",Cybersecurity Analyst
+65.35,80.25,7.15,Cybersecurity,"Network Security, Linux, Cryptography, Ethical Hacking, Wireshark",Cybersecurity Analyst
+94.29,73.42,9.2,Web Development,"Node.js, React, CSS, JavaScript, HTML",Web Developer
+69.45,86.77,6.04,Cybersecurity,"Firewalls, Ethical Hacking, Cryptography, Linux, Network Security",Cybersecurity Analyst
+94.9,81.43,7.37,Software Development,"C++, Git, Spring Boot",Software Developer
+62.94,84.22,8.13,AI/ML,"Deep Learning, Python, Scikit-learn, Keras, TensorFlow",Machine Learning Engineer
+60.94,73.98,8.09,Design,"Sketch, Creativity, Photoshop, Adobe XD",UX/UI Designer
+66.96,78.86,6.44,AI/ML,"Python, TensorFlow, Scikit-learn, Deep Learning, NLP",Machine Learning Engineer
+61.26,79.8,8.2,Data Science,"Pandas, NumPy, SQL, Python, Machine Learning",Data Scientist
+94.19,92.04,7.22,Software Development,"OOP, Git, C++, Problem Solving",Software Developer
+72.65,64.79,6.32,Web Development,"React, Bootstrap",Web Developer
+70.86,78.95,9.34,Software Development,"Git, C++, Java, OOP, Problem Solving",Software Developer
+90.78,60.04,8.11,Cybersecurity,"Cryptography, Ethical Hacking",Cybersecurity Analyst
+76.71,83.8,7.6,Software Development,"Problem Solving, Java, OOP",Software Developer
+86.97,62.46,8.4,Web Development,"HTML, JavaScript, Bootstrap, Node.js",Web Developer
+94.01,69.82,6.84,Software Development,"Git, OOP, Spring Boot, C++",Software Developer
+62.8,73.93,7.06,Design,"Adobe XD, Figma",UX/UI Designer
+70.49,64.22,7.07,AI/ML,"Keras, Deep Learning",Machine Learning Engineer
+75.6,63.45,7.96,Web Development,"HTML, CSS, Node.js, JavaScript",Web Developer
+70.08,90.16,8.03,AI/ML,"Scikit-learn, Python, Keras, TensorFlow",Machine Learning Engineer
+88.71,89.15,6.59,AI/ML,"Python, NLP, Deep Learning, TensorFlow",Machine Learning Engineer
+76.51,85.18,7.54,Design,"Photoshop, Figma, Sketch, UI/UX, Adobe XD",UX/UI Designer
+61.04,71.19,8.69,Software Development,"Java, Git",Software Developer
+75.57,61.65,6.56,Data Science,"Python, Pandas, Machine Learning",Data Scientist
+82.62,93.05,9.37,Cybersecurity,"Firewalls, Network Security",Cybersecurity Analyst
