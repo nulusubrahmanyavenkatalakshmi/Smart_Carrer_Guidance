@@ -16,10 +16,22 @@ le_target = joblib.load("model/le_target.pkl")
 # In-memory user store
 users = {}
 
+# Serve the home page
 @app.route("/")
 def serve_home():
     return send_from_directory(app.static_folder, "index.html")
 
+# Serve signup page
+@app.route("/signup-page")
+def serve_signup():
+    return send_from_directory(app.static_folder, "signup.html")
+
+# Serve login page
+@app.route("/login-page")
+def serve_login():
+    return send_from_directory(app.static_folder, "login.html")
+
+# Signup API
 @app.route("/signup", methods=["POST"])
 def signup():
     data = request.get_json()
@@ -32,6 +44,7 @@ def signup():
     users[username] = password
     return jsonify({"message": "Signup successful"}), 200
 
+# Login API
 @app.route("/login", methods=["POST"])
 def login():
     data = request.get_json()
@@ -43,6 +56,7 @@ def login():
 
     return jsonify({"message": "Login successful"}), 200
 
+# Predict API
 @app.route("/predict", methods=["POST"])
 def predict():
     data = request.get_json()
@@ -78,9 +92,9 @@ def predict():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-# This ensures any other static files like CSS/JS are served
-@app.route('/<path:path>')
-def serve_static(path):
+# Serve static files like JS, CSS
+@app.route("/<path:path>")
+def serve_static_files(path):
     return send_from_directory(app.static_folder, path)
 
 if __name__ == "__main__":
