@@ -1,9 +1,10 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
 import joblib
 import numpy as np
+import os
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder="frontend", static_url_path="")
 CORS(app)
 
 # Load model and encoders
@@ -16,8 +17,8 @@ le_target = joblib.load("model/le_target.pkl")
 users = {}
 
 @app.route("/")
-def home():
-    return "✅ Smart Career Guidance API is running."
+def serve_home():
+    return send_from_directory(app.static_folder, "index.html")
 
 @app.route("/signup", methods=["POST"])
 def signup():
@@ -76,6 +77,11 @@ def predict():
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+# This ensures any other static files like CSS/JS are served
+@app.route('/<path:path>')
+def serve_static(path):
+    return send_from_directory(app.static_folder, path)
 
 if __name__ == "__main__":
     app.run(debug=True)
