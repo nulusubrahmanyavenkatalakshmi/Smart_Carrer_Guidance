@@ -5,8 +5,7 @@ import numpy as np
 import os
 
 app = Flask(__name__, static_folder="frontend", static_url_path="")
-CORS(app, origins=["http://127.0.0.1:5500"])
-
+CORS(app)
 
 # Load model and encoders
 model = joblib.load("model/career_model.pkl")

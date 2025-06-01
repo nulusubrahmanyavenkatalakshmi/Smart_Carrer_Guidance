@@ -15,12 +15,12 @@ document.addEventListener("DOMContentLoaded", () => {
         score10: parseFloat(document.getElementById("tenth").value),
         score12: parseFloat(document.getElementById("twelfth").value),
         ugscore: parseFloat(document.getElementById("ug").value),
-        interests: document.getElementById("interests").value,
+        interests: document.getElementById("interests").value.trim().toLowerCase(),
         skills: skills
       };
 
       try {
-        const res = await fetch("http://127.0.0.1:5000/predict", {
+        const res = await fetch("https://smart-carrer-guidance.onrender.com/predict", {
           method: "POST",
           headers: {
             "Content-Type": "application/json"
